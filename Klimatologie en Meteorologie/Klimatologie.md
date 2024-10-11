@@ -260,7 +260,37 @@ Condensatie en verdamping gebeuren **tergelijk**
 - **Subsidentie**: dalende luchtstromen
 # Wolken
 ## Stabiliteit
-- Stabiel: zal terug gaan naar evenwichtstoestand
-- Onstabiel: geen terugkeer naar evenwichtstoestand
+````col
+```col-md
+flexGrow=1
+===
+### Stabiel
+Zal **terug** gaan **naar evenwichtstoestand**
+
+![[Pasted image 20241011140806.png]]
+
+Vormen gelaagde wolken
+```
+```col-md
+flexGrow=1
+===
+### Onstabiel
+Zoekt **nieuwe evenwichtstoestand**
+
+![[Pasted image 20241011140833.png|206]]
+
+Vormen stapelwolken
+```
+````
 
 Zolang deeltje warmer is dan omgeving blijft het stijgen -> dikkere wolk
+
+***Potentiele temperatuur***: temperatuur die luchtdeeltje zou hebben bij adiabatische transformatie op zeeniveau
+-> grootheid die behouden blijft van waarde 
+
+Dichtheidsverschil zorgt voor staling/stijging (vergelijking schip op water)
+
+### Condities voor absolute stabiliteit
+- *Koude onderste lagen*
+	- Nachtelijke straling, advectie koude lucht, lucht die over koud oppervlak beweegt
+- *Warme hogere luchtlagen*
