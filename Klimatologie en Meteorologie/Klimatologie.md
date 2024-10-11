@@ -280,6 +280,8 @@ Zoekt **nieuwe evenwichtstoestand**
 ![[Pasted image 20241011140833.png|206]]
 
 Vormen stapelwolken
+
+Door werking van de zon op de bodem warmt bodem op -> onstabiliteit
 ```
 ````
 
@@ -294,3 +296,11 @@ Dichtheidsverschil zorgt voor staling/stijging (vergelijking schip op water)
 - *Koude onderste lagen*
 	- Nachtelijke straling, advectie koude lucht, lucht die over koud oppervlak beweegt
 - *Warme hogere luchtlagen*
+
+S nachts minder regen door stabiliteit: koude bodem, koude lucht onderaan
+
+Hogere wolken -> meer ijs, minder regen
+
+Grafiek: wanneer blauwe lijn warmer is dan omgevingstemperatuur wijst op wolkvorming op die hoogte
+
+# Neerslag
