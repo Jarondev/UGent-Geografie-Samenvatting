@@ -31,7 +31,7 @@ Hoe meer **mensen** -> hoe meer **vervoersvraag**
 - Lokaal: *proximity* (nabijheid)
 - Regionaal: *mobility* (mobiliteit)
 **Virtuele** Bereikbaarheid
-- Virtueel: *connectivity* ()
+- Virtueel: *connectivity*
 # Aspecten
 ## Economisch
 **Vraag-aanbodcurve**:
