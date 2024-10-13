@@ -269,7 +269,7 @@ Zal **terug** gaan **naar evenwichtstoestand**
 
 ![[Pasted image 20241011140806.png]]
 
-Vormen gelaagde wolken
+Vormen **gelaagde wolken**
 ```
 ```col-md
 flexGrow=1
@@ -279,13 +279,13 @@ Zoekt **nieuwe evenwichtstoestand**
 
 ![[Pasted image 20241011140833.png|206]]
 
-Vormen stapelwolken
+Vormen **stapelwolken**
 
 Door werking van de zon op de bodem warmt bodem op -> onstabiliteit
 ```
 ````
 
-Zolang deeltje warmer is dan omgeving blijft het stijgen -> dikkere wolk
+Zolang deeltje warmer is dan omgeving blijft het stijgen -> **dikkere** (*hogere*) **wolk**
 
 ***Potentiele temperatuur***: temperatuur die luchtdeeltje zou hebben bij adiabatische transformatie op zeeniveau
 -> grootheid die behouden blijft van waarde 
@@ -299,8 +299,141 @@ Dichtheidsverschil zorgt voor staling/stijging (vergelijking schip op water)
 
 S nachts minder regen door stabiliteit: koude bodem, koude lucht onderaan
 
-Hogere wolken -> meer ijs, minder regen
+## Lapse Rates
+**Environmental** (*ELR*):
+	Werkelijke termperatuurafname naar mate van hoogte
+**Dry Abatic** (*DALR*):
+	Afkoelingssnelheid droge lucht bij stijging
+	-> voor *analyseren convecties* 
+**Saturated Adiabatic** (*SALR*):
+	Afkoelingssnelheid verzadigde lucht bij stijging
+	-> voorspellen *wolkenvorming en neerslag*
+**Moist Adiabatic** (*MALR*):
+	Gemiddelde afkoelingssnelheid verzadigde lucht (vaak zelfde als SALR)
+	-> kijken hoe vochtige massas zich verticaal verplaatsen
 
-Grafiek: wanneer blauwe lijn warmer is dan omgevingstemperatuur wijst op wolkvorming op die hoogte
+>[!Info] Hoe lapse rates invloed hebben op stabiliteit
+> ![[Pasted image 20241013134630.png]]
+## Subsidentie-Inversie
+1. **Lucht daalt in een hogedrukgebied**
+2. **Compressie** van luchtdeeltjes
+3. **Temperatuur stijgt** door compressie
+4. **Inversie** vormt (warme laag bovenop koude laag)
+5. **Stratuswolken**
+	- Koude lucht onder warme lucht wordt verzadigd -> kan niet stijgen door warme laag
+		-> wordt *horizontaal verspreid*
+		-> *gebrek aan convectie*
+## Instabiliteit
+### Mixing & Optilling
+Redenen:
+- **Turbulentie**
+- **Convectie**: warme lucht die stijgt
+- **Windschering**: verandering snelheid met hoogte
+- **Fronten**: botsing meerdere luchtmassa's
+- **Oreografische invloeden**: gebergtes en heuvels
+- **Differentiele opwarming**: ongelijke opwarming
+## Bewolking
+	= zichtbare aanwezigheid waterdruppels of ijskristallen in atmosfeer
+### Ontwikkeling
+#### Convectie
+**Parcel stijgt** -> Cumuluswolk ontstaat
+Hoogte wolk wordt bepaald door *convectief condensatieniveau*: plaats waar condensatie plaatsvind
 
+**Neerwaartse beweging** convectie aan rand wolk **verhindert naburige thermiek** (veel *blauw tussen cumuluswolken*)
+
+Is **zelfvernietigend**: door schaduw -> geen opwarming aan grond -> geen convectie
+
+> [!Info]
+> ![[Pasted image 20241013162044.png]]
+
+#### Oreografische Stijging
+Gedwongen *stijging luchtlaag door obstakel*
+-> **adiabatische afkoeling**
+
+Bewolking vormt aan **loefzijde** (voorzijde), lijzijde krijgt uitgedroogde, opgewarmde lucht
+
+> [!Info]
+> ![[Pasted image 20241013162920.png]]
+
+### Classificatie
+
+> [!Info] Verschillende wolkentypes op basis van hoogte
+> ![[Pasted image 20241013163153.png]]
+#### Types
+##### Stratuswolk
+- Kleine of weinig verticale stijging
+- Door **koeling horizontale luchtlaag tot dauwpunt**
+- Laag stijgt door kleine verticale uplift
+##### Cumuluswolk
+- Grote verticale stijging
+- Door **adiabetische stijging luchtpakket**
+
+#### Vormingsgrafieken
+**Linkse lijn**: dauwpunt
+**Rechtse lijn**: omgevingstemperatuur
+**Blauwe lijn**: temperatuur air pacel
+
+Wanneer dauwpunt en omgevingstemperatuur dichter bij elkaar ligt is er meer wolkvorming op die hoogte
+
+````col
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241013163333.png]]
+**Culumuswolken** op 600 hPa hoogte
+```
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241013163346.png]]
+**Onweerswolk** gevormd op bijna elke hoogte
+```
+````
+
+#### Beschrijving volgens hoeveelheid
+
+| Code            | Score (op 8) | Beschrijving                           |
+| --------------- | ------------ | -------------------------------------- |
+| SKC (Sky Clear) | 0            | Heldere hemel                          |
+| FEW             | 1-2          | Licht bewolkt                          |
+| SCT (Scattered) | 3-4          | Bewolkt                                |
+| BKN (Broken)    | 5-7          | Zwaar bewolkt                          |
+| OVC (Overcast)  | 8            | Betrokken                              |
+| OBSC (Obscured) | ~            | Hemel niet zichtbaar (mist, sneeuwval) |
 # Neerslag
+Hoe kan een cloud droplet groeien naar regendruppel?
+## Condensatie
+**Oververzadiging nodig** om druppels gecondenseerde waterdamp te krijgen
+-> gebeurt zelden in wolken
+
+### Terminal Velocity
+Snelheid waarbij druppel blijft verder vallen (gravitatie = frictie)
+Grotere druppels hebben grotere snelheid
+
+## Botsing en Coalescentie
+Grote druppels botsen met kleinere
+-> klonteren samen
+
+Dikke wolken hebben **meer coalescentie door meer bewegingsruimte van de druppel** (updrafts)
+-> culumuswolken meer regen
+-> stratuswolken lichte 'drizzle'
+
+Vooral in *warme wolken* (plafond > -15°C)
+
+**Belangrijke factoren**:
+- Verdeling druppels
+- Dikte wolk
+- Strijgstromen in de wolk
+- Elektrische lading druppels
+## Bergeron Process
+Neerslagformatie in 'koude' wolken (plafond < -15°C)
+
+*Ijskristallen* vormen op **ijsnuclei** (zelfde concept als condensatiekern)
+
+Ijskristallen groeien door omliggende waterdruppels:
+- Kristal heeft **vast oppervlak** dus makkelijker om daar aan te binden
+- Kristal wordt zwaarder; valt
+- *Botst* met meer waterdruppels -> kristal groeit (**aggregatie**)
+- Sneeuwvlok wordt gevormd
+
+**Ratio** *ijskristallen:water* moet **hoog genoeg zijn** om neerslag te hebben van ijs
