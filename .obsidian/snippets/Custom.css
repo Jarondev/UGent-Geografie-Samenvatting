@@ -1,6 +1,23 @@
-body {
-  --bold-color: cornflowerblue;
-  --italic-color: lightgreen;
+body.theme-dark {
+  --bold-color: #999FFF;
+  --italic-color: #99CCFF;
+}
+
+body.theme-light {
+  --bold-color: #000000;
+  --italic-color: #CC6600;
+ 
+}
+
+.cm-strong, strong {
+    font-weight: 650;
+}
+
+.cm-em, em {
+font-weight: 500;
+}
+
+body{
   --h1-variant: small-caps;
   --h2-variant: small-caps;
   --h3-variant: small-caps;

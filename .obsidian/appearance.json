@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Custom"
-  ]
+  ],
+  "accentColor": ""
 }
