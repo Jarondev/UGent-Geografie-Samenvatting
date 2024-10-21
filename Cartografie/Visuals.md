@@ -79,3 +79,74 @@ For unordered features (**nominal data**); varying hues
 
 If *logical relationships* exist -> *echo* them with related colors
 **Use color conventions** if applicable (blue - water; green - forest)
+# Texts
+## Purpose
+- **Label**
+- Explain, direct or point
+- **Establish hierarchy** or show size
+## Typography (font)
+### Type/Family
+**Serif**:  used in books and articles
+**Sans serif** (non-serif)
+**Handwriting**: no longer used
+
+![[{EC15D227-49B8-4832-91FF-3820A5355484}.png|Serif Type Fonts]]
+
+**Letter width** dependent on family used
+### Letter Spacing
+	= Amount of space between characters
+**Letter kerning**: adjusting space between individual letter forms
+### Text Orientation
+![[{567FC56A-614B-4840-A530-283C633EA1CB}.png|350]]
+### Color of Text
+**Lightness** might suggest **importance**
+***Basic color guidelines still applicable***
+### Special Effects
+**Masks**: rectangles/box/border with background
+**Callouts**: masks with *lines that point to features*
+## Text Placement
+###  Principles
+- Must be **undoubtful**
+- **Readable**; not too small, not too big, keep seperated from surrounding text
+### Point Features
+Order of **preference** from *1 to 6*:
+- Better to *shift up/down* than to align them with point (between 1/2 or 3/4)
+- Prefer to ***not overlap other features***
+	- Unless using mask to keep readability
+
+![[{8F786DCE-0704-4BCA-A46E-C02C1DA5E037}.png|475]]
+
+**Masks**:  rectangles placed under the types, creating special space for lettering
+**Halo**: extends outline of letters like a drop shadow
+
+### Line Features
+#### Principles
+- Try to **follow curve**
+- ***Along or inside*** object
+- Repeat name when unclear
+#### Example
+````col
+```col-md
+flexGrow=1
+===
+### Before
+![[{564B1E35-226F-4247-88B1-7FDD972F1F27}.png]]
+```
+```col-md
+flexGrow=1
+===
+### After
+![[{920C5F3E-ECD4-4C81-B06C-2E7810D20383}.png]]
+```
+````
+### Area Features
+#### Principles
+- **Inside**
+- Try to **follow shape** or use callout
+- Can *stretch labels for bigger area*
+- **Avoid conflicts** between features
+#### Problems
+**Automatic text placement** is complex issue
+-> *manually improve* outcome
+Avoid dense label placements and trade-offs between rules
+# Design Principles
