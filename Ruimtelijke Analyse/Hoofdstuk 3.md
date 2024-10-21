@@ -29,34 +29,13 @@ Kansvariabele kan slechts een ***beperkt aantal mogelijke waarden*** aannemen
 > 
 
 #### Binomiale Kansverdeling
-
-*Kans op succes*
-**Binomiaal proces**: vast aantal onafhankelijke pogingen 
-**Binomiale variabele**: aantal keren succes of mislukkeling (*X*)
-**Binomiale verdeling**: kans dat binomiale variabele een bepaalde waarde aanneemt
-##### Kenmerken
-- Vast aantal pogingen
-- Onafhankelijke pogingen (vorige pogingen hebben geen invloed)
-- Twee mogelijke uitkomsten (succes & mislukking)
-- Constante kans van succes (kans op succes blijft hetzelfde voor elke poging)
-##### Typevoorbeelden
-- Stemgedrag
-- Ruimtelijke spreiding van ziektes
-- Kwaliteit landgebruik voor specifieke toepassing
-- Natuurrampen
-
-> [!Info]
-> ![[Pasted image 20240922102701.png]]
-
+**Aantal successen in vaste aantal pogingen**
 #### Geometrische Kansverdeling
-
-**Duur tot succes** bereikt wordt, **hoeveel pogingen** nodig
-Kenmerken zelfde als binomiaal
-
+**Aantal pogingen tot succes** bereikt wordt, **hoeveel pogingen** nodig
+-> hoe lang duurt het tot resultaat bereikt wordt
 #### Poissonverdeling
-
-**Zeldzame gebeurtenissen** in een **vast tijdsinterval** of **vast ruimtelijk gebied** modelleren
-
+**Aantal gebeurtenissen** in een **vaste tijd of ruimte**
+-> hoeveel gebeurtenissen binnen bepaalde tijd, berekend met gemiddelde
 ##### Kenmerken
 - Discrete waarden (enkel natuurlijke getallen)
 - Onafhankelijke gebeurtenissen
@@ -64,3 +43,22 @@ Kenmerken zelfde als binomiaal
 ### Continue Kansverdeling
 
 Kansvariabele heeft ***oneindig aantal mogelijke waarden*** binnen een bepaald interval
+#### Uniforme Kansverdeling
+Alle mogelijke uitkomsten hebben even veel kans
+Waarde valt binnen interval
+
+Bv. kans dat een huis verkocht wordt voor meer/minder dan 70.000 euro
+-> kans dat x valt tussen 2 waarden
+
+#### Normale Kansverdeling
+Oppervlakte op basis van curve die normale verdeling beschrijft
+
+Formule te ingewikkeld: z-score gebruiken
+- Z-score: kans dat het buiten standaardafwijking valt
+
+Tabel:
+- Bovenaan links: Z-score
+- Z score 0.0 heeft kans 0.5, 0.01 heeft kans .4960, 0.12 heeft kans 4522...
+#### Exponentiele Kansverdeling
+Kijken naar ongelijke verdelingen (tijd te laat, inkomensverdeling)
+Onafhankelijke gebeurtenissen

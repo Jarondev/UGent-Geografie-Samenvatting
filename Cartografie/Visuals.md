@@ -79,3 +79,4 @@ For unordered features (**nominal data**); varying hues
 
 If *logical relationships* exist -> *echo* them with related colors
 **Use color conventions** if applicable (blue - water; green - forest)
+# Text
