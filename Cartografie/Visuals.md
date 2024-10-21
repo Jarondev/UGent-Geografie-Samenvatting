@@ -45,9 +45,9 @@ Purity, intensity, **colorfulness** of a hue
 #### RGB
 - **Additive**
 - Defined by portions of R,G and B (up to 256)
-	[+] Relates nicely to *method on display*
-	[-] Hue, saturation and lightness not inherent
-	[-] Equal steps do not correlate to equal visual steps 
+	- [p] Relates nicely to *method on display*
+	- [c] Hue, saturation and lightness not inherent
+	- [c] Equal steps do not correlate to equal visual steps 
 #### CMY(K)
 - **Subtractive**
 - Like mixing ink
@@ -79,4 +79,3 @@ For unordered features (**nominal data**); varying hues
 
 If *logical relationships* exist -> *echo* them with related colors
 **Use color conventions** if applicable (blue - water; green - forest)
-# Text

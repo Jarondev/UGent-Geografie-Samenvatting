@@ -2,7 +2,9 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "Custom"
+    "Custom",
+    "safaritabs",
+    "Blockquote"
   ],
   "accentColor": ""
 }

@@ -116,5 +116,17 @@
   "Editor@@h5-color-select": "h5-color-designated",
   "Editor@@h6-color-select": "h6-color-designated",
   "Editor@@h6-weight": 250,
-  "Editor@@zoom-off": true
+  "Editor@@zoom-off": true,
+  "chime-theme@@callout-style": "callout-floating",
+  "power-callouts@@brutal": false,
+  "power-callouts@@soft": false,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)",
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": false,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@sidebar-tabs-names": "tab-names-single"
 }
