@@ -437,3 +437,18 @@ Ijskristallen groeien door omliggende waterdruppels:
 - Sneeuwvlok wordt gevormd
 
 **Ratio** *ijskristallen:water* moet **hoog genoeg zijn** om neerslag te hebben van ijs
+# Druk & Wind
+## Krachten
+**Drukgradientkracht** (*PGF*): kracht van hoge- naar lagedruk
+	-> sterker naar mate groter drukverschil
+**Corioliskracht**: afwijking door rotatie aarde
+	-> hangt af van *snelheid luchtpakket* en *breedtegraad*: 0 aan evenaar
+**Wrijvingskracht**: treedt op in *wrijvingslaag* (PBL)
+	**Wrijvingslaag**: laag nabij oppervlak die wordt beinvloedt door wrijvingseffecten
+		-> dikte veranderlijk (seizoen, windsnelheid, terrein, warmte...)
+		-> PBL bij ons: ~1km
+**Centripetale  kracht**
+## Wind
+### Buiten drukcentra & boven bpl
+Geen centripetale kracht, geen wrijving
+<u>Wel</u>: **PGF, Corioliskracht**
