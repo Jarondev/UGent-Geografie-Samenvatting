@@ -1,10 +1,10 @@
 {
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "system",
   "enabledCssSnippets": [
-    "Custom",
     "safaritabs",
-    "Blockquote"
+    "Blockquote",
+    "Custom"
   ],
   "accentColor": ""
 }

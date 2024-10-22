@@ -17,6 +17,16 @@ body.theme-light {
 font-weight: 500;
 }
 
+body.theme-dark .cm-em.cm-strong {
+    font-weight: 700 !important;
+    color: #99FFCC !important;
+}
+
+body.theme-light .cm-em.cm-strong {
+    font-weight: 700 !important;
+    color: #0000CC !important;
+}
+
 body{
   --h1-variant: small-caps;
   --h2-variant: small-caps;

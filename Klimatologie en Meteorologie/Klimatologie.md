@@ -415,7 +415,7 @@ Grote druppels botsen met kleinere
 -> klonteren samen
 
 Dikke wolken hebben **meer coalescentie door meer bewegingsruimte van de druppel** (updrafts)
--> culumuswolken meer regen
+-> ***culumuswolken*** meer regen
 -> stratuswolken lichte 'drizzle'
 
 Vooral in *warme wolken* (plafond > -15°C)
