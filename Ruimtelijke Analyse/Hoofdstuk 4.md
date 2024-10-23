@@ -27,3 +27,4 @@ Composite sample
 - Kijiken naar invultijd, antwoordgedrag
 - Vragen die zelfde antwoord zouden moeten geven
 
+# Betrouwbaarheidsintervallen
