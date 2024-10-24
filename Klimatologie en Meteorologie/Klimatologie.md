@@ -438,17 +438,225 @@ Ijskristallen groeien door omliggende waterdruppels:
 
 **Ratio** *ijskristallen:water* moet **hoog genoeg zijn** om neerslag te hebben van ijs
 # Druk & Wind
+## Terminologie
+**Ruimen**: windverandering in wijzerzin
+**Krimpen**: windverandering in tegenwijzerzin
+
 ## Krachten
 **Drukgradientkracht** (*PGF*): kracht van hoge- naar lagedruk
 	-> sterker naar mate groter drukverschil
 **Corioliskracht**: afwijking door rotatie aarde
-	-> hangt af van *snelheid luchtpakket* en *breedtegraad*: 0 aan evenaar
-**Wrijvingskracht**: treedt op in *wrijvingslaag* (PBL)
+	-> hangt af van ***snelheid** luchtpakket* en *breedtegraad*: 0 aan evenaar
+**Wrijvingskracht**: treedt op in *wrijvingslaag* (**PBL**)
 	**Wrijvingslaag**: laag nabij oppervlak die wordt beinvloedt door wrijvingseffecten
 		-> dikte veranderlijk (seizoen, windsnelheid, terrein, warmte...)
 		-> PBL bij ons: ~1km
 **Centripetale  kracht**
 ## Wind
-### Buiten drukcentra & boven bpl
-Geen centripetale kracht, geen wrijving
-<u>Wel</u>: **PGF, Corioliskracht**
+### Types
+#### 1. Geostrofische Wind
+Geen centripetale kracht, boven PBL
+<u>Wel</u>: **PGF, CF
+
+Constante snelheid
+Druk gaat van **hoge naar lage druk** door PGF, corioliskracht begint in te werken waardoor *luchtstroom gebogen* wordt, dit gebeurt tot *evenwicht* bereikt wordt *tussen PGF en CF* (Coriolis Force) -> **wind loopt parallel aan isobaren** ipv loodrecht
+
+**Wet van Buys-Ballot**: door coriolis zal *wind afbuigen naar rechts* en hogedrukgebied eerder rechts vormen dan links
+#### 2. Cyclonale Stroming
+Boven PBL
+<u>Wel</u>: **PGF, CF, Centripetale kracht**
+
+**Draaiende luchtbeweging rond lagedrukgebied**
+PGF trekt lucht naar centrum, corioliskracht buigt luchtstroom af naar andere kant
+*Centripetale kracht = CF - PGF* -> zorgt voor radius cycloon
+
+#### 3. Ageostrofische Wind
+**Geostrofische wind + in PBL**
+
+**Wrijving remt beweging af**: *corioliskracht daalt*
+-> lucht beweegt niet meer parallel aan isobaar; gaat **schuin naar lagedrukgebied**
+### Wind aan de grond
+Wind aan oppervlak tegenover wind op 2000ft
+Boven **land**:
+- Tijdens **dag**: 50% + 20-30° krimpen
+- Tijdens **nacht**: 30% + 30-40° krimpen
+Boven **zee**: 70% + 10-20° krimpen
+
+*Zone windschering* nabij oppervlak -> **turbulentie**
+	= verandering windsnelheid- of richting met hoogte
+
+#### Gevolgen Windschering
+**Cyclonale stroming**: inwaarts in L, uitwaards in H
+**Verticale beweging**: convergentie in L (**stijgbeweging**), divergentie in H (**daalbeweging**)
+
+**Convergentie en divergentie** altijd **gepaard** met elkaar:
+*Convergentie in L opp leidt tot divergentie in de hoogte en omgekeerd*
+## Weerkaarten
+**Hogedrukgebied**: meestal droog weer
+**Lagedrukgebied**: meestal nat weer
+
+Gemiddeld zeeniveau gebruikt als referentie in berekeningen om echte waarden te benaderen
+
+Waarnemingen gebeuren **synoptisch** (op zelfde ogenblik): internationale afspraken
+
+***Isobaar***: lijn die punten met zelfde drukwaarde verbindt
+
+**Windsnelheid afgebeeld in:**
+- Korte streepjes: 5kt
+- Lange streepjes: 10kt
+- Vlagjes: 50kt
+Combineren symbolen mogelijk 
+![[Pasted image 20241024191257.png|60]]
+### Lagedrukgebied
+***Kenmerken weer:***
+- Bewolkt met **strato en cumulus**, neerslag, wind, kleine schommeling, goed zicht
+#### Frontale Depressies
+Voor gematigde breedtegraden
+Polaire lucht uit noorden en tropische lucht uit zuiden komen samen
+
+Frontale & **onstabiele weersfenomenen** (buien, onweer, turbulente winden)
+Verplaatsing door hoogtestromingen
+**Lage drukwaarden in kern**
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241024161656.png]]
+
+#### Niet-Frontale Depressies
+Door **intense opwarmingen**: stijgstromen creeren lage drukgebied
+Niet in hogere lagen atmosfeer
+
+**Thermische depressies**
+Vaak met hevige onstabiliteit (**thermische vore**)
+	-> actieve zone onweders
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241024162248.png]]
+
+### Hogedrukgebied
+***Kenmerken weer:***
+- **Stabiel**, **statiforme wolken**, zwakke wind, grote schommeling temp, verminderd zicht, weinig neerslag
+#### Koude Anticyclonen
+Op hoge breedtegraad in **koude polaire lucht**
+##### Winteranticycloon
+**Permanent hogedrukgebied boven continent in winter**door aanwezigheid koude lucht in lage lagen atmosfeer
+*Hoge waarden in kern*, enorm gebied
+-> soms **wig** in onze streken: droge, koude lucht
+##### Polair Hogedrukgebied
+**Permanent in polair gebied**
+#### Warme Anticyclonen
+Ontstaan in **subtropische lucht**
+**Permanente gordel van hoge druk in buurt keerkringen** (vb. Azoren)
+
+***Blocking high***: uitloper H naar noorden -> vorming aparte kern
+- Persistent
+- Normale circulatie boven oceaan verstoord (lagedrukgebied moet omheen H)
+### Patronen
+#### Depressie, lagedrukgebied of cycloon:
+Donutvormige isobaar
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241024152056.png]]
+
+#### Vore of trog (trough)
+Uitlopers van lage luchtdruk (paraboolvormig)
+Duidt op aanwezigheid front/buienlijn
+
+**Scherpere vore: actievere weersfenomenen**
+#### Hogedrukgebied/anticycloon
+Zelfde als depressie maar dan omgewisselde luchtdruk
+Heeft **ruggen** en **wiggen** (uitlopers hoge luchtdruk)
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241024152337.png]]
+
+### Hoogtekaarten
+Weer aan de grond wordt bepaald door verplaatsingen in **verschillende lagen van atmosfeer**
+-> horizontale doorsnedes atmosfeer nodig
+
+**Gebruiken vaste drukniveau's** belangrijk om te analyseren op welke hoogte deze voorkomen
+-> gemeten met *altimeter of barometer*
+
+***Isophysen***: **hoogtelijnen** -> soortgelijke patronen als isobaren
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241024170623.png]]
+
+**Hoogtewig**: stabiel weerstype
+**Hoogtetrog**: onstabiel
+Overgangen hoogtewig -> hoogtetrog = fronten
+
+**Hoogtelaag**: koud lagedrukgebied op grote hoogte
+*Koude bovenlucht = onstabiliteit*
+- In lente/zomer vooral over land
+- In herfst/winter vooral over zee
+- Weinig bewegend
+- Dikwijls met H aan de grond
+
+````col
+```col-md
+flexGrow=1
+===
+#### Zonale hoogtestroming: 
+- **Snelle** opeenvolging hoogtewiggen en -troggen
+- Wisselvallig weertype met frequent neerslag
+```
+```col-md
+flexGrow=1
+===
+#### Meridionale hoogtestroming:
+- **Trage** opeenvolging hoogtewiggen en -troggen
+- Aanhoudend weertype
+```
+````
+## Toepassingen
+### Lokale Winden
+
+![[Pasted image 20241024184801.png]]
+#### Zeebries
+Kleinschalige luchtcirculatie langs kustgebieden overdag
+Vooral op warme, zonnige dagen
+
+**Land warmt sneller op dan zee**: *convectie* boven land
+-> klein L ontstaat
+
+Gevolg: lagere temperatuur langsheen kustgebieden, verminderd zicht
+Meestal in **gebied met zwakke drukgradient** (anticyclonen)
+#### Landbries
+Convectie **vanuit zee die naar land** stroomt
+Meest waargenomen wanneer **verschil temperatuur zeewater en continent** het grootst is
+
+### Globale Systemen
+#### Algemene Circulatie
+1. Lucht van evenaar koelt onderweg -> diverse **convectie cellen**
+2. **Roterende aarde**: coriolis
+
+**3 cellen:** (van hoge breedtegraad naar evenaar)
+- Polar
+- Ferrel
+- Hadley
+
+> [!Info]
+> ![[Pasted image 20241024185445.png]]
+
+#### Jet Stream
+*Langgerekte smalle band* met **hoge windsnelheid hoog in atmosfeer**
+-> golvende beweging van west naar oost
+
+Grote **verticale & horizontale windschering**
+
+Door **groot T-verschil**: scheidingsvlak 2 luchtmassa's
+
+***Polaire Frontale Jet (PFJ)***:
+- Op polair front (scheidingsvlak polaire en subtropische lucht)
+- Typisch voor **gematigde breedtegraden**
+	- Meer poolwaarts in zomer, meer *naar evenaar & intenser in winter*
+### Lucht-zee interacties
+#### El Nino
+**Verzwakking passaatwind** waardoor warm *water ophoopt in oostelijke deel stille oceaan*
+-> Veroorzaakt hoge druk, waardoor *wind vanuit het westen* (lage druk) komt
+-> meer <u>regen in Zuid-Amerika</u>, <u>droogte in Zuidoost-Azie en Australie</u>
+
+#### Madden-Julian Oscillatie
+Verplaatsende weersverstoring boven Stille Oceaan
+**Natte** & **droge** fase, verplaatst zich van west naar oost
+Beinvloedt tropische stormen & moessoens
