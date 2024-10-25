@@ -469,7 +469,6 @@ Boven PBL
 **Draaiende luchtbeweging rond lagedrukgebied**
 PGF trekt lucht naar centrum, corioliskracht buigt luchtstroom af naar andere kant
 *Centripetale kracht = CF - PGF* -> zorgt voor radius cycloon
-
 #### 3. Ageostrofische Wind
 **Geostrofische wind + in PBL**
 
@@ -616,7 +615,7 @@ flexGrow=1
 Kleinschalige luchtcirculatie langs kustgebieden overdag
 Vooral op warme, zonnige dagen
 
-**Land warmt sneller op dan zee**: *convectie* boven land
+**Land warmt sneller op dan zee**: *stijgstroom* boven land, *daalstroom* boven zee
 -> klein L ontstaat
 
 Gevolg: lagere temperatuur langsheen kustgebieden, verminderd zicht
@@ -639,7 +638,7 @@ Meest waargenomen wanneer **verschil temperatuur zeewater en continent** het gro
 > ![[Pasted image 20241024185445.png]]
 
 #### Jet Stream
-*Langgerekte smalle band* met **hoge windsnelheid hoog in atmosfeer**
+*Langgerekte smalle band* (soort rivier) met **hoge windsnelheid hoog in atmosfeer**
 -> golvende beweging van west naar oost
 
 Grote **verticale & horizontale windschering**
@@ -650,13 +649,78 @@ Door **groot T-verschil**: scheidingsvlak 2 luchtmassa's
 - Op polair front (scheidingsvlak polaire en subtropische lucht)
 - Typisch voor **gematigde breedtegraden**
 	- Meer poolwaarts in zomer, meer *naar evenaar & intenser in winter*
+
+***Thermische wind***: verandering geostrofische wind in de hoogte door horizontale temperatuurverschillen
+
+***Jet streak***: regio van snelste wind in straalstroom (vaak in dal straalstroom)
+-> belangrjik voor ontwikkeling van storm
 ### Lucht-zee interacties
 #### El Nino
-**Verzwakking passaatwind** waardoor warm *water ophoopt in oostelijke deel stille oceaan*
--> Veroorzaakt hoge druk, waardoor *wind vanuit het westen* (lage druk) komt
+**Sterke passaatwind naar oosten** waardoor warm *water ophoopt in oostelijke deel stille oceaan*
+-> Veroorzaakt lage druk, waardoor *wind vanuit het westen* (hoge druk) komt
 -> meer <u>regen in Zuid-Amerika</u>, <u>droogte in Zuidoost-Azie en Australie</u>
 
 #### Madden-Julian Oscillatie
 Verplaatsende weersverstoring boven Stille Oceaan
 **Natte** & **droge** fase, verplaatst zich van west naar oost
 Beinvloedt tropische stormen & moessoens
+# Luchtsoorten, fronten, depressies
+## Luchtsoorten
+### Kenmerken
+- Zelfde **temperatuur**
+- Zelfde **vochtigheid**
+### Klassificatie
+- m (maritiem) of c (continentaal)
+- Equatoriaal (E)
+- Tropisch (T)
+- Polair (P)
+- Arctisch (A)
+- Mid-latitude (ML)
+
+***Belangrijk om te weten hoe deze het weer in Belgie beinvloeden! Zie powerpoint***
+### In Belgie
+![[Pasted image 20241025144207.png]]
+## Fronten
+***Belangrijk op examen!!!***
+### Systemen
+Slide 47: vlaggen en cirkels wijzen in richting naar waar front beweegt
+### Stationair front
+**Geostrofische wind loodrecht** op front: front beweegt niet
+### Warm Front
+Warme lucht blaast naar koud
+-> warme lucht is kouder, stijgt, gaat bewegen over koude lucht, zorgt voor **helling**
+-> wolken klimmen mee (nooit <u>zware</u> buienwolken)
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241025150314.png]]
+
+### Koud Front
+Koude lucht blaast naar warm
+-> koude lucht is kouder, gaat bewegen onder warme lucht eerst, zorgt voor **omgekeerde helling**
+-> warme deeltejs aan front stijgen tot boven koude lucht: **adiabatisch deeltje**
+-> **cumuluswolken**
+
+> [!Example] Voorbeeld
+> ![[Pasted image 20241025153635.png]]
+
+## Occlusie
+Koud beweegt sneller dan warm
+-> **Occlusiefront**: Zone waar **warm- en koud front combineren**
+-> resultaat: warme lucht beweegt naar boven, koude lucht onderaan
+### Koud Front Occlusie
+### Warm Front Occlusie
+## Cyclones
+Tussen groenland en Canada: **Labradorstroom** (koud water)
+Naast Mexico: **Golfstroom** (warm water)
+-> **sterk temperatuurcontrast**: beinvloedt temperatuur wind
+
+## Frontal Wave
+Knik ontstaat 
+Draaibeweging rond rotatiecentrum, te groot om cycloon te vormen, vormt **storm**
+
+### Intiele Stage
+### Occlusiestage
+Warm front wordt kleiner en occlusie groter naar mate leeftijd depressie
+
+***Straalstroom cyclonic devergence belangrijk voor examen***!!
+
