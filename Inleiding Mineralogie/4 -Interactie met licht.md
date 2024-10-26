@@ -79,30 +79,49 @@ Electromagnetische stralen met kleinere golflengte; hogere frequentie
 -> hoger **niveau van detail**
 
 Hogere frequentie -> **meer energie** dus makkelijker om materiaal binnen te dringen
-
 ### Productie
 In **X-stralenbuis**
 - Vacuumkamer met wolfraamfilament (*cathode*)
 - Metaal als target (*anode*)
 - Elektrische stroom loopt door filament
 - **Groot voltageverschil** tussen cathode en anode, elektronen bewegen met hoge snelheid van filament naar target
+- Door impact worden **elektronen uit lagere gordels gestoot**, worden **vervangen met hoge-energie elektronen**
+- Transitie resulteert in uitzenden X-stralen
+
+
 ## Types
+![[Pasted image 20241026170415.png|350]]
 #### Continu Spectrum
 Intensiteit hangt af van materiaal anode en voltage van buis
 #### Karakteristiek spectrum
 Bij hoog voltage wanneer **elektrontransities in atomen van anode** plaatsvinden
 -> golflengte afhankelijk van materiaal anode
 
+L -> K-schil: **Kα X-straal** (meest voorkomend)
+M -> K-schil: **Kβ X-straal**
+
+> [!Example] Voorbeeld hoe elektronen uit binnenste schil vervangen worden
+> Atomen worden uit K-schil geworpen, M & L schil nemen plaats in
+> 
+> ![[Pasted image 20241026170215.png|475]]
+
 ## X-stralendiffractie
 X-stralenbundel bestaat uit aparte golven
 -> kunnen interageren: **interferentie**
 
-Bij zelfde fase zullen ze interfereren en een golf met hogere amplitude zal resulteren
-Uit fase: resulterende golf heeft geen amplitude
-
-
+Bij **zelfde fase** zullen ze interfereren en een golf met **hogere amplitude** zal resulteren
+	-> ***constructief***
+**Uit fase**: resulterende golf heeft **geen amplitude**
+	-> *destructief*
 ### Wet van Bragg
+We kennen golflengte λ, we kunnen hoek θ meten van terugkerende stralen, dus we kunnen **afstand tussen vlakken met atomen berekenen**
+
+**Diffractie gebeurt enkel als uitgaande stralen in fase zijn**
+-> enkel specifieke waarden voor n
 ### Wet von Laue
+**Bombarderen** X-stralen
+
+Als verstrooiingshoek van X-stralen voldoen aan voorwaarden geven ze **constructieve interferentie**
 
 ## Single Crystal Analysis
 ### X-straal diffractometer
@@ -119,7 +138,14 @@ flexGrow=1
 1. X-straalbuis die x-stralenbunder produceert en beschiet
 2. Staal mineraal (poedervorm)
 3. Electronische detector aan andere kant van staal, kan roteren
+4. Detector beweegt en meet intensiteit X-stralen
 ```
 ````
 
+Na meting wordt intensiteit geplot tegen hoek θ
+-> **hoek van iedere diffractiepiek wordt omgerekend naar d-afstand m.b.v. Bragg**
 ## Poederdiffractie
+Mineraal vermalen tot **fijn poeder**
+-> duizend *korrels met random orientatie*
+
+Random orientatie korrels zorgen voor **intensere diffractiepieken**
