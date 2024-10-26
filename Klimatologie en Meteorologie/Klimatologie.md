@@ -724,3 +724,20 @@ Warm front wordt kleiner en occlusie groter naar mate leeftijd depressie
 
 ***Straalstroom cyclonic devergence belangrijk voor examen***!!
 
+# Onweders en Orkanen
+**Factoren die type bui bepalen:**
+- Verandering wind met hoogte
+- Dikte wolk
+## Types
+- Celvormig
+- Boogvormig
+- Gescheiden
+## Windfenomenen bij onweer
+- **Tornado of windhoos**
+	- Roterende luchtkolom onder buienwolk die grond raakt
+	- Supercel of niet-supercel
+- **Valwind** (downburst)
+	- Wind valt recht naar beneden samen met zware neerslag
+- **Boog-echo**
+	- Ellipsvormig neerslaggebied
+	- Sommige neerslag kan kommavorm maken: cycloon

@@ -47,7 +47,15 @@ Licht breekt in mineraal: splitst in snelle en trage straal
 -> sommige lichtgolven worden uitgedoofd: **interferentiekleuren**
 
 #### Michel-Levy chart
-TODO
+Kleurendiagram die **relatie** toont tussen **dubbelbreking** en **dikte mineraalplaatje**
+
+1. **Licht gaat door dubbelbrekend mineraal**
+	- Splitst in 2 lichtbundels, bewegen met verschillende snelheid
+	- *Lichtbundels interfereren*: bepaalde kleuren zichtbaar (hangt af van dikte mineraal en mate van dubbelbreking)
+2. **Kleuren linken aan mate dubbelbreking en breedte**
+	- Mineraal in dunne secties bekijken en kleur bepalen
+		-> zoeken in grafiek naar bijhorende dubbelbreking
+3. **Vergelijk met andere bekende variabelen**
 
 #### Optische Indicatrix
 **Ruimtelijke voorstelling** van verschillende **brekingsindexen**
