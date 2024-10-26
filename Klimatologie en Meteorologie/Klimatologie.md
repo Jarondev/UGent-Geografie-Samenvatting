@@ -623,7 +623,6 @@ Meestal in **gebied met zwakke drukgradient** (anticyclonen)
 #### Landbries
 Convectie **vanuit zee die naar land** stroomt
 Meest waargenomen wanneer **verschil temperatuur zeewater en continent** het grootst is
-
 ### Globale Systemen
 #### Algemene Circulatie
 1. Lucht van evenaar koelt onderweg -> diverse **convectie cellen**
@@ -655,15 +654,29 @@ Door **groot T-verschil**: scheidingsvlak 2 luchtmassa's
 ***Jet streak***: regio van snelste wind in straalstroom (vaak in dal straalstroom)
 -> belangrjik voor ontwikkeling van storm
 ### Lucht-zee interacties
-#### El Nino
-**Sterke passaatwind naar oosten** waardoor warm *water ophoopt in oostelijke deel stille oceaan*
--> Veroorzaakt lage druk, waardoor *wind vanuit het westen* (hoge druk) komt
--> meer <u>regen in Zuid-Amerika</u>, <u>droogte in Zuidoost-Azie en Australie</u>
+#### El Nino/La Nina
+ **Door passaatwind tussen Zuid-Azie en Zuid-Amerika**
+Normaal:
+1. Warm water stapelt op in het westen
+2. Opwelling koud water in het oosten door verdwijnen warm water
+3. Wolkenvorming in het westen door warm water die lucht opwarmt
+4. *Atmosferische circulatie*: warm water/lucht west, koud water/lucht rechts
 
+El Nino:
+1. Passaatwinden verzwakken
+2. Warm water gaat naar oosten
+3. Wolkenvorming in oosten; veel regen in Amerika
+
+El Nina:
+1. Passaatwinden naar westen *versterken*
+2. Meer opstapeling warm water in Azie
+3. Meer regen in Azie; droogte in Amerika
 #### Madden-Julian Oscillatie
 Verplaatsende weersverstoring boven Stille Oceaan
 **Natte** & **droge** fase, verplaatst zich van west naar oost
 Beinvloedt tropische stormen & moessoens
+
+*Beinvloedt ook El Nino* door passaatwinden te versterken
 # Luchtsoorten, fronten, depressies
 ## Luchtsoorten
 ### Kenmerken
