@@ -43,3 +43,39 @@ flexGrow=1
 ![[{F6EAC02B-3DBD-48DA-9BCA-39F4CF429BF8}.png]]
 ```
 ````
+### Transportnetwerk
+#### Types
+**Centrifugaal**: meer *grid-patroon*
+**Centripetaal**: meer centraliteit door *radiaal patroon*
+**Gedistributeerd**: alle nodes zijn evenwaardig
+**Point-to-point netwerk**: zelfde als gedistributeerd; geen centrum, nodes gaan naar omliggende
+
+##### Hub and spoke netwerk (Gecentraliseerd)
+- [p] Minder infrastructuur nodig
+- [p] Frequentere verbindingen
+- [p] Grotere capaciteit tussen netwerken 
+- [c] Hogere reistijd door langere trajecten
+
+#### Metcalfe's Law
+Berekent **max nummer van unieke vebindingen die gemaakt kunnen worden in een netwerk**
+
+### Netwerklengtes
+````col
+```col-md
+flexGrow=1
+===
+- **Minimum netwerk** (A): meest simpele configuratie om een netwerk te vormen
+- **Intermediate netwerk** (B/C): compromis tussen bereikbaarheid en kost
+- **Compleet netwerk** (D): redundant netwerk met vaak overbodige verbindingen
+```
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241026200442.png|625]]
+```
+````
+### Oorsprong
+- **Random**: door willekeurige processen
+- **Normaal**: elke node heeft even veel verbindingen (meestal ruimtelijk georganiseerd)
+- **Small-world**: veel verbindingen met nabije nodes
+- **Scale-free**: hubs met veel verbindingen (hub and spoke-achtig)
