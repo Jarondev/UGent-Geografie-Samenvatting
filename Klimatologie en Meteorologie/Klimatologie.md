@@ -683,23 +683,43 @@ Beinvloedt tropische stormen & moessoens
 - Zelfde **temperatuur**
 - Zelfde **vochtigheid**
 ### Klassificatie
-- m (maritiem) of c (continentaal)
-- Equatoriaal (E)
-- Tropisch (T)
-- Polair (P)
-- Arctisch (A)
-- Mid-latitude (ML)
+- m (maritiem) of c (continentaal): bepaalt *vochtigheid*
+- Regio bepaalt *temperatuur*:
+	- Equatoriaal (E)
+	- Tropisch (T)
+	- Polair (P)
+	- Arctisch (A)
+	- Mid-latitude (ML)
 
 ***Belangrijk om te weten hoe deze het weer in Belgie beinvloeden! Zie powerpoint***
 ### In Belgie
 ![[Pasted image 20241025144207.png]]
 ## Fronten
 ***Belangrijk op examen!!!***
-### Systemen
-Slide 47: vlaggen en cirkels wijzen in richting naar waar front beweegt
-### Stationair front
+### Concept
+Luchtmassas bewegen door circulatie
+-> massa's met verschillende temperatuur en vochtigheid botsen
+-> *transitiezone 2 luchtmassas* = **front**
+
+3 grote fronten:
+- **Arctisch**: scheidt arctische lucht van mildere polaire lucht
+- **Polair**: stationair tussen warm subtropisch en koude arctische luchtmassas, veroorzaakt wisselvallig weer
+- **Equatoriaal of subtropisch**: dichtbij evenaar, warme, vochtige lucht
+
+**ITCS**: Inter-tropical Convergence Zone
+-> zone bij evenaar waar passaatwinden samenkomen
+-> zorgt voor *moesson-seizoen in India*
+
+*Hoge temperatuursgradienten* aan fronten leiden tot *hoge drukgradienten*
+-> hogere snelheid van geostrofische wind
+-> **golfstroom**
+### Types
+#### Stationair front
 **Geostrofische wind loodrecht** op front: front beweegt niet
-### Warm Front
+
+Geen hevige regen of stormen
+*Soms langdurige regen aan koude zijde*
+#### Warm Front
 Warme lucht blaast naar koud
 -> warme lucht is kouder, stijgt, gaat bewegen over koude lucht, zorgt voor **helling**
 -> wolken klimmen mee (nooit <u>zware</u> buienwolken)
@@ -707,7 +727,13 @@ Warme lucht blaast naar koud
 > [!Example] Voorbeeld
 > ![[Pasted image 20241025150314.png]]
 
-### Koud Front
+##### Eigenschappen nabij front
+- Ontwikkeling bewolking
+- Neerslag
+- Temperatuursverhoging na frontpassage
+- Verminderende luchtdruk
+- Verlaagde zichtbaarheid  door wolkenvorming
+#### Koud Front
 Koude lucht blaast naar warm
 -> koude lucht is kouder, gaat bewegen onder warme lucht eerst, zorgt voor **omgekeerde helling**
 -> warme deeltejs aan front stijgen tot boven koude lucht: **adiabatisch deeltje**
@@ -716,27 +742,104 @@ Koude lucht blaast naar warm
 > [!Example] Voorbeeld
 > ![[Pasted image 20241025153635.png]]
 
+##### Eigenschappen nabij front
+- Hoge stapelbewolking
+- Temperatuursverlaging na frontpassage
+- Verandering windrichting
+- Verminderde zichtbaarheid voor frontpassage, verbetering na passage
 ## Occlusie
 Koud beweegt sneller dan warm
 -> **Occlusiefront**: Zone waar **warm- en koud front combineren**
 -> resultaat: warme lucht beweegt naar boven, koude lucht onderaan
+
+````col
+```col-md
+flexGrow=1
+===
 ### Koud Front Occlusie
+Lucht achter occlusiefront is *kouder* dan lucht ervoor
+![[Pasted image 20241027154532.png]]
+<sub>Proces in de tijd gaat van a -> b</sub>
+```
+```col-md
+flexGrow=1
+===
 ### Warm Front Occlusie
+Lucht achter occlusiefront is *warmer* dan lucht ervoor
+
+Grootste verschil: hevige neerslag is *voor* het occlusiefront
+
+![[Pasted image 20241027154745.png]]
+<sub>Proces in de tijd gaat van a-> b</sub>
+```
+````
+
+
+
 ## Cyclones
 Tussen groenland en Canada: **Labradorstroom** (koud water)
 Naast Mexico: **Golfstroom** (warm water)
 -> **sterk temperatuurcontrast**: beinvloedt temperatuur wind
+-> ***cyclogenesis*** (*kniks* vormen op stationair front)
+-> lagedrukgebied aanwezig maar nog niet gesloten met isobaren
 
 ## Frontal Wave
+
+### Proces
+````col
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241027180728.png]]
+```
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241027180750.png|475]]
+```
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241027180803.png]]
+```
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241027180815.png]]
+```
+````
+#### Intiele Stage
 Knik ontstaat 
 Draaibeweging rond rotatiecentrum, te groot om cycloon te vormen, vormt **storm**
-
-### Intiele Stage
-### Occlusiestage
+````col
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241027173557.png]]
+```
+```col-md
+flexGrow=1
+===
+![[Pasted image 20241027173616.png|500]]
+```
+````
+#### Occlusiestage
 Warm front wordt kleiner en occlusie groter naar mate leeftijd depressie
 
-***Straalstroom cyclonic devergence belangrijk voor examen***!!
-
+![[Pasted image 20241027173702.png]]
+#### Volwassen stage
+Occlusie gaat door *tot* *koud* front *warm* front volledig *heeft ingehaald*
+-> occlusie gaat rond L draaien
+#### Oplossingsfase
+*Warme lucht is volledig opgestegen*; lagedrukgebied verliest kracht
+-> **frontale golf valt uiteen** en lost op
+-> neerslagzones minderen
+### Divergence Aloft
+	= lucht die naar boven getrokken wordt waarbij lagedrukgebied op oppervlakte behouden wordt
+#### Factoren
+- **Stromingspatroon**:
+	- 
+***Straalstroom cyclonic devergence belangrijk voor examen***!
 # Onweders en Orkanen
 **Factoren die type bui bepalen:**
 - Verandering wind met hoogte
