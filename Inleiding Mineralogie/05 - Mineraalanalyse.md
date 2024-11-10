@@ -79,7 +79,28 @@ Fysische parameters zijn vaak functie van temperatuur
 ## Differentiele Thermische Analyse
 Bepaalt **verandering energie tussen staal en referentiemateriaal** bij verhitting
 
-**Exotherme reacties**:
+**Exotherme reacties** waarbij energie vrijkomt:
 - Oxidatie, vorming kristallijne structuren, decompositiereacties
-**Endotherme reacties**:
+**Endotherme reacties** die energie opnemen:
 - Dehydratatie, dehydroxilatie, smelten, evaporatie en sublimatie
+## Thermogravimetrie (TG)
+**Verandering gewicht van staal** tijdens verwarmen of afkoelen aan gecontroleerd tempo
+Duidt op *thermische stabiliteit en samenstelling* d.m.v. **thermogravigram**
+-> verandering gewicht in functie met temperatuur
+# Chemische Analyses
+## Rapporteren
+Als:
+- **Gewichtspercentages** van hoofdelementen
+- **PPM** voor spoorelementen
+## Bepalen Formule
+Door middel van atomaire proporties en gewicht
+## Variabiliteit in Samenstelling
+Mineralen zijn **zelden zuivere stoffen**
+-> specifieke atoomplaatsen kunnen bezet worden door twee of meer verschillende chemische elementen (**ionaire substitutie**)
+
+### Factoren
+- **Afmetingen** van atomen die elkaar vervangen
+- **Lading** van ionen die betrokken zijn
+- **Roosterstructuur** mineraal
+- **Temperatuur** waarbij vervanging plaatsvindt
+	-> bij hogere temperatuur: hogere tolerantie voor ionaire substitutie, afmetingen ook groter
