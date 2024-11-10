@@ -207,22 +207,21 @@ Order of **preference** from *1 to 6*:
 #### Principles
 - Try to **follow curve**
 - ***Along or inside*** object
-- Repeat name when unclear
-#### Example
-````col
-```col-md
-flexGrow=1
-===
-### Before
-![[{564B1E35-226F-4247-88B1-7FDD972F1F27}.png]]
-```
-```col-md
-flexGrow=1
-===
-### After
-![[{920C5F3E-ECD4-4C81-B06C-2E7810D20383}.png]]
-```
-````
+
+> [!Example]
+> ````col
+>```col-md
+> flexGrow=1
+> ===
+> ### Before
+> ![[{564B1E35-226F-4247-88B1-7FDD972F1F27}.png]]
+> ```
+> ```col-md
+> flexGrow=1
+> ===
+> ### After
+> ![[{920C5F3E-ECD4-4C81-B06C-2E7810D20383}.png]]
+> ```
 ### Area Features
 #### Principles
 - **Inside**

@@ -55,3 +55,5 @@ Om steekproeven met elkaar te vergelijken
 # Hypothese Testen
 Significantie: meten en bepalen groepen populatie op basis van statistische test
 Relevantie: kijken als verschil significantie relevant is
+
+## Stappenplan

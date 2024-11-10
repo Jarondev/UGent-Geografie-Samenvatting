@@ -843,17 +843,89 @@ Occlusie gaat door *tot* *koud* front *warm* front volledig *heeft ingehaald*
 # Onweders en Orkanen
 **Factoren die type bui bepalen:**
 - Verandering wind met hoogte
+	- Leidt tot langere levensduur: **downstream en upstream** overlappen elkaar niet
 - Dikte wolk
+- **Samengang downstream en upstream**
 ## Types
-- Celvormig
-- Boogvormig
-- Gescheiden
+````col
+```col-md
+flexGrow=1
+===
+### Celvormig
+![[Pasted image 20241108141233.png]]
+```
+```col-md
+flexGrow=1
+===
+### Boogvormig
+![[Pasted image 20241108141243.png]]
+```
+```col-md
+flexGrow=1
+===
+### Gescheiden
+![[Pasted image 20241108141251.png]]
+```
+````
 ## Windfenomenen bij onweer
-- **Tornado of windhoos**
-	- Roterende luchtkolom onder buienwolk die grond raakt
-	- Supercel of niet-supercel
-- **Valwind** (downburst)
-	- Wind valt recht naar beneden samen met zware neerslag
-- **Boog-echo**
-	- Ellipsvormig neerslaggebied
-	- Sommige neerslag kan kommavorm maken: cycloon
+### Tornado of windhoos
+- Roterende luchtkolom onder buienwolk die grond raakt
+- Supercel of niet-supercel
+### Valwind (downburst)
+- Wind valt recht naar beneden samen met zware neerslag
+### Boog-echo
+- Ellipsvormig neerslaggebied
+- Sommige neerslag kan kommavorm maken: cycloon
+- **Rear Flow Injet**: nog in te vullen
+### Supercel
+- Roterend onweer
+	- Onweer met stijgstroom die roteert rond verticale as
+- Als stijgstroom sterk genoeg is: wind op grote hoogte gaat errond
+	- "Over shooting top"
+	-> duidt op **enorm sterk onweer**
+- Kans op tornado
+- Zonder voeding warmte lucht sterft bui uit
+- Waar forward flank en rear flank ontmoeten: rotatie aan grond (windhoos/tornado)
+
+> [!Info]
+> ![[Pasted image 20241108144847.png]]
+
+## In regio's
+### In Amerika
+- Warme vochtige lucht uit Golf van Mexico
+- Koude droge lucht van westen
+- Hoe meer richting zomerseizoen -> tornados meer naar noorden in tornado alley
+### In Belgie
+Tornado Oostmalle 1967: **zwaarste tornado laatste decennia** in Belgie
+- Kerktoren en huizen ingestort
+- Veel zwaargewonden
+Pukkelpop 2011: grote downburst
+## Orkanen
+Reeks onweders ontstaan boven warme zee organiseren zich in lagedrukgebied
+- Voldoende verdamping (**warm zeewater van 26C nodig**)
+- Voldoende zware buien
+- Geen windschering
+- Geen straalstroom
+	-> zwaarste winden onderaan atmosfeer
+Zwakt af boven land: geen verdamping zeewater meer
+Saffir-Simpson: categorie voor orkanen met 1-5
+
+> [!Info]
+> ![[Pasted image 20241108161001.png]]
+> #### Kenmerken
+> Updraft rond centrum
+> Wolken rond eye (**eyewall**) hebben heftigste neerslag door grootste daalbeweging
+> Verschillende banden van onweders
+> Veroorzaakt hoge getijen
+
+## Belgische Stormen
+**EEZ-Zone**: zone in zee waar Belgie stoffen mag ontginnen, eilanden mag bouwen etc
+- Heeft meetpalen en golfmeetboeien: vormt **meetnet vlaamse banken**
+
+Meestal door depressie boven Noorwegen waardoor wind recht op onze kust staat
+### Storm 1953
+Springtij + veel wind direct op onze kust
+Getijverhoging van 2m, golven van 6-8m
+### Sinterklaasstorm
+Kleine overstromingen
+Waterpijl van 6-7m

@@ -58,3 +58,20 @@ Abraham Ortelius: Theatrum Orbsi Terrarum (atlas)
 17e eeuw
 Verschillende kaartuitgevers
 **Willem Janszoon Blaeu**: eerste algemene atlas
+
+# 18e - 21e eeuw
+Veel conflicten binnen Europa
+Chorografische kaarten: kaarten met plaatsen, wegen
+Evolutie grond als rijkdom naar goed -> verhandeling
+## Ferraris
+door Joseph de Ferraris
+Polychrome manuscripte kaart: **Kabinetskaart**
+- Eerste systematische grootschalige kaart van Belgie en West-Europa
+- Geen legende
+## Napoleon
+Wil weten wie eigenaar, gebruiker is van perceel
+-> maakt wetten, reglementen rond 
+Landmeter maakt schets: noteert **grenzen gemeente** op plan
+Eigendommen n kaart tot informatisering:
+- Overtekenen op bestaande kaart na wijziging (splitsing perceel)
+- Tabel van alle eigenaren
