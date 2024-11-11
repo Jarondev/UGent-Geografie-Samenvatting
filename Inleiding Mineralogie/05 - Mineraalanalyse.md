@@ -97,10 +97,47 @@ Door middel van atomaire proporties en gewicht
 ## Variabiliteit in Samenstelling
 Mineralen zijn **zelden zuivere stoffen**
 -> specifieke atoomplaatsen kunnen bezet worden door twee of meer verschillende chemische elementen (**ionaire substitutie**)
-
 ### Factoren
 - **Afmetingen** van atomen die elkaar vervangen
 - **Lading** van ionen die betrokken zijn
 - **Roosterstructuur** mineraal
 - **Temperatuur** waarbij vervanging plaatsvindt
 	-> bij hogere temperatuur: hogere tolerantie voor ionaire substitutie, afmetingen ook groter
+## Vaste oplossing met eenvoudige ionaire substitutie
+Ion op bepaalde plaats vervangen door ander met **zelfde lading en gelijkaardige straal**
+-> **isomorfe reeks**: samenstelling kan varieren in alle mogelijke richtingen
+
+Kation vervangen door **ander ion met andere lading**
+-> ander kation moet vervangen worden om elektrische neutraliteit te behouden (**gekoppelde substitutie**)
+
+## Interstitele vaste oplossingen
+Wanneer er ionen voorkomen in ruimten waarin normaal geen ionen voorkomen
+-> bv. tussenin rooster
+## Oplossingen vacature-omissie
+Wanneer 2 of **meer kationen vervangen** worden door **kation met hogere lading**
+- bv. kaliumveldspaat: K<sup>+</sup> -> Pb<sup>2+</sup>
+	- Elk Pb-ion vervangt 2 K-ionen
+Vacante plaats ontstaat; vormt **kleurcentrum** in veldspaat voor groene kleur (amazoniet)
+# Chemische Samenstelling & Kristalvorm
+## Polymorfisme
+Zelfde verbindingen in **meerdere kristalstructuren**
+-> kristalstructuur niet enkel door samenstelling maar ook *omstandigheden* (p, T)
+
+Wijziging omstandigheden: **ene polymorf kan naar andere gaan** indien stabiel
+### Types
+1. **Reconstructief polymorfisme**: overgang door verbreken bindingen en volledige inwendige herschikking ionen
+2. **Verplaatsingspolymorfisme**: kleine verplaatsing ionen waardoor kleine verandering is in hoek tussen verschillende verbindingen (*kinking*)
+3. **Orde-wanorde polymorfisme**: bij **hoge temperatuur: willekeurig** verdeelde kationen (*wanorde*), bij lage: op vaste, regelmatige plaatsen in rooster (*orde*)
+## Isotypie en Homiotypie
+**Isotypisch**: chemische verbindingen die in zelfde kristalstructuur uitkristalliseren
+**Isomorfen**: chemisch verwantschap tussen isotypische kristalsoorten waarbij ze homogene mengkristallen vormen
+**Homiotypisch**: verbindingen die isostructureel zijn zonder gemeenschappelijk kation- of aniongroepen
+## Grafische voorstelling samenstellingen
+### Lijndiagram
+**Verhouding** tussen mengkristallen weergegeven op een lijn
+![[Pasted image 20241111160928.png]]
+### Driehoeksdiagram
+3 mengkristallen weergegeven op een driehoek
+![[Pasted image 20241111160941.png]]
+## Chemische Formule 
+**Structuurformule**: hoeveel atomen of mol in roostereenheid voorkomen en waarin multipliciteit eenheidscel gebruikt wordt
