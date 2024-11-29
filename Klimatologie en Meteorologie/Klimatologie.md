@@ -929,3 +929,40 @@ Getijverhoging van 2m, golven van 6-8m
 ### Sinterklaasstorm
 Kleine overstromingen
 Waterpijl van 6-7m
+# Klimaat
+## In Belgie
+### Neerslag
+### Zonnestraling
+Meer aan kust door minder wolkenvorming dankzij koude zee
+Minder op hoge plaatsen
+-> veel lage wolken
+
+Zuiden van rug ardennen meer zon door lijzijde (zie vorige hoofdstukken)
+## Onweer
+## Stormen
+Komen terug om de X jaar, afhankelijk van hoeveel Bft
+
+Vraag: is meer dagen met hevige neerslag niet direct gelinkt aan hogere temperatuur? Door onstabiliteit van warme onderlucht, koude bovenlucht
+# Klimaatverandering
+## Factoren
+door **verandering stralingsbalans**
+-> inkomende, uitgaande, gereflecteerde,... straling van de zon
+
+1. Verandering **instraling zon**
+	1. door *verandering in baan rond zon*
+		1. *excentriciteit*: hoe gebogen ellips van baan is
+		2. *precessie*
+		3. hoek rotatieas
+	2. door *zonne-activiteit*
+		-> zonnecycli spelen rol
+2. Andere **samenstelling atmosfeer**
+	1. *vulkaanuitbarstingen, industrie* zorgt voor afkoeling
+3. Verandering aardoppervlak
+## Principes
+# Weermodellen
+Niet-lineaire vergelijkingen worden gelinealiseerd
+Hogere resolutie: meer detail maar fout is 5x groter dan resolutie
+-> model met 10km resolutie kan fenomeen van 40-50km omvang goed berekenen
+
+# Weersvoorspellingen practica
+Belangrijk: **occlusie bij lagedrukgebied**

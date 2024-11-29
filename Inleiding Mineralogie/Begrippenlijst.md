@@ -11,3 +11,4 @@
 | Subhedraal           | Kristal deels omgeven door kristalvlakken (gematigd ontwikkeld)            |
 | Anhedraal            | Kristal niet omgeven door kristalvlakken (slecht ontwikkeld)               |
 | Aggregaat            | Vergroeiing verschillende kristallen                                       |
+|                      |                                                                            |

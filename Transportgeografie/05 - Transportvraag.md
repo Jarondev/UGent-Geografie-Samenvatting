@@ -73,3 +73,18 @@ Sticky goed: Ei = 0: bv brood
 - Afstand tot centrum/afstand tot transportnetwerk
 - *Monocentristisch vs polycentristische* structuur
 **Economisch**: 
+- GDP, inkomen, koopkracht..
+- ***Autobezit*** belangrijke indicator
+	- Mensen die auto bezitten gebruiken hem
+- Vraag naar vervoer tweezijdig *gelinkt* met BBP
+	- Doel: **decoupling**
+- **BREVER**-wet: behoud van reistijd en verplaatsing
+	- Reistijd zelfde doorheen generaties, afstand vergroot, ~72min gemiddeld
+- Peak car scenario: punt met meeste gebruik auto in maatschappij
+**Psychologisch**:
+- Kijken naar habits
+- Individueel verplaatsingsgedrag personen verklaren
+- 3 grote wijzigingen + *abrupt/gradueel*
+	- **Technologisch**
+	- **Menselijk**
+	- **Biosfeer** (natuurrampen,..)
