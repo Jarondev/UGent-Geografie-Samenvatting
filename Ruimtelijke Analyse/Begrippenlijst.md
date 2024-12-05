@@ -8,3 +8,6 @@
 | Replication crisis             | Concept waarbij resultaten en vindingen van wetenschappelijke studies moeilijk te reproduceren zijn                                                |
 | Ruling hypothesis              | Vroeg aannemen van 1 hypothese, wat kan leiden tot bevestigingsbias                                                                                |
 | Gerrymandering                 | manipuleren van grenzen van kiesdistricten om een politiek voordeel te halen                                                                       |
+| Betrouwbaarheidsinterval       | 'Ware' gemiddelde ligt binnen interval rond steekproefgemiddelde                                                                                   |
+| Normale verdeling              | 95% ligt tussen 1.96 standaardafwijkingen van gemiddelde                                                                                           |
+|                                |                                                                                                                                                    |

@@ -2,7 +2,6 @@
 ## Definition
 
 *Symbolised* **representation** of geographical **reality**
-
 ## Characteristics
 
 - **Abstract** view to reality
@@ -202,7 +201,6 @@ Order of **preference** from *1 to 6*:
 
 **Masks**:  rectangles placed under the types, creating special space for lettering
 **Halo**: extends outline of letters like a drop shadow
-
 ### Line Features
 #### Principles
 - Try to **follow curve**
@@ -246,4 +244,149 @@ Avoid dense label placements and trade-offs between rules
 	-> visual prominence of *figure vs background*
 - **Readability**
 	-> make symbols big enough to allow comfortable reading
- 
+# Scale, Map Generalization
+## Scale Types
+- Fraction
+- Bar scale
+- Variable bar scale (diff in latitude vs longitude measurements)
+## Map Generalization
+	= Reducing information content because of scale, purpose, audience
+
+**Preserve main characteristics**
+-> all maps are generalized to some degree
+
+### Model for Generalization
+- **Why** (conceptual objectives)
+	- **Reasons**: readability, scale, purpose, audience
+- **When** (cartometric evaluation)
+	- Reasons
+		- Congested features
+		- Coalescence (features overlapping due to scale)
+		- Conflict (feature inconsistency)
+		- Compilation
+	- Considerations
+		- Density, difference, purpose, quality...
+- **How** (fundamental operations)
+	- Selection/elimination (give priority)
+	- Symbolization
+	- Classification
+	- Aggregation
+	- **Graphic simplification** (eg. smoothing out lines)
+		- Douglas-Peucker
+	- **Graphic exaggeration** (important parts are enlarged)
+	- **Graphic displacement** (move unimportant objects away to make space for improtant ones)
+### Algorithms and Automatic Map Generalization
+````col
+```col-md
+flexGrow=1
+===
+### Algorithms
+#### Considerations
+- Shape
+- Area
+- Relative distribution density
+- Topological relationships
+	- Within, touches, crosses, overlaps...
+#### Types
+- **Horton's orders**
+	- Relative *importance stream segments* (eg. remove cat. 3 segments)
+- **Douglas-Peucker**
+	- Simplify line while keeping main points
+```
+```col-md
+flexGrow=1
+===
+### Automatic Generalization Workflow
+1. Divide map in small chunks
+2. Begin with most important type
+3. Begin with operations that have no graphic conflict
+4. Reiterate
+
+#### Difficulties
+Other dependencies 
+Retroactive effect of previous decisions
+
+```
+````
+# Topographic Maps
+	= Visual recording of landscapes based on measurements
+## Representations
+- **Terrain**
+- **Landscape** configurations (settlements, transport networks, hydrography, landcover...)
+- **Toponyms** (names of places, features)
+## Functions
+- Represent **spacial configurations**
+- Relationships, topology, connectivity
+- Distances, directions, areas
+- Tool to identify problems
+## Requirements
+- Completeness
+- Accuracy
+- Equal visual importance of map feature types
+- Clarity
+# Representation of terrain and elevation
+**Elevation**: height or depth of terrain compared to eg. mean sea level
+**Relief**: changes in elevation in area
+## Measurement
+- Levelling, GPS, Radar, LIDAR
+- **Benchmark points** on ground
+- T.A.W. (Tweede Algemene Waterpassing) reference points
+## Models
+- **Contour lines**: lines connecting equal elevation points
+	- **Isobaths**: *depth contours* under water
+- **Hachure**: short lines in *direction of steepest hill gradient*
+- **Shaded relief**: by shadowing based on light source (typically from NW)
+- **Hypsometric tinting**: color of hues representing terrain
+- **Oblique views**
+	- *Panorama* map views
+	- Draped images
+- Physical models
+# Map Projections
+	= Systematic and orderly representation of the earths grid on a plane
+ Developable Surfaces (*plane, cylinder, cone*)
+## Distortions
+### Types
+- **Distance**
+	-> equidistant
+- **Area** 
+	-> equivalent
+- **Angle** 
+	-> conformal
+- Compromise (everything)
+### Tissot's indicatrix
+	= visualization to analyse distortions
+Circle on sphere, ellipse on projected map
+**Main axes of distortions**: *axes that are perpendicular before and after projection*
+## Quantifying distortions
+````col
+```col-md
+flexGrow=1
+===
+### Distance
+![[Pasted image 20241205161731.png]]
+```
+```col-md
+flexGrow=1
+===
+### Angle
+![[Pasted image 20241205161835.png]]
+```
+```col-md
+flexGrow=1
+===
+### Area
+![[Pasted image 20241205161819.png]]
+```
+````
+
+## Orthogonal Map Projections
+**Medians perpendicular to parallels**
+-> median and parallels are main axes of distortion
+So: distance distortians along medians and parallels
+
+### Distance Distortion
+![[Pasted image 20241205162623.png]]
+## Equidistant Map Projections
+Equidistant only **in one direction**
+-> meridians: h = 1
+-> parallels: k = 1

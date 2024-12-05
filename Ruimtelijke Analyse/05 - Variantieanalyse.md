@@ -6,19 +6,31 @@ Grafiek: 3 steekproeven (mean 1,2,3), gemiddelde van alle steekproeven grand mea
 **Between variance**: variantieverschil tussen totaal gemiddelde van alle steekproeven en specifieke steekproef
 **Within variance**: variantie binnen een welbepaalde steekproef
 
-F-toets: hoe groter F, hoe verder van kritische waarde
+> [!Example] Voorbeeld
+> ![[Pasted image 20241204140100.png]]
 
-Assumptietesten: 
+**F-toets**: kijken voor significante veschillen gemiddelden steekproef
+-> MSB/MSW 
+
+# Assumpties testen
+## Assumpties:
+- Onafhankelijke & random variabelen
+- **Normale verdeling**
+	- Nakijken met Q-Q plot
+	- *Cummulatieve densiteitsfunctie*
+- **Homoscedasticiteit**
+
 - Sig. = P-waarde
 
-Cummulatieve densiteitsfunctie: om verdeling data na te kijken
-
-Exceedence probability: waarden van gelijkaardige situaties samenvatten en zien hoeveel % kans voor bepaalde uitkomst (voorbeeld erosie)
+*Exceedence probability*: waarden van gelijkaardige situaties samenvatten en zien hoeveel % kans voor bepaalde uitkomst (voorbeeld erosie)
 
 # Kruskal-Wallis Test
-Test zonder voldoen assumpties
+	In plaats van ANOVA bij niet voldoen aan assumpties
 # Contrasten
+Als H<sub>0</sub> wordt verworpen -> welke gemiddelden verschillen
 vb. verschil neerslag tussen week en weekend
+-> contrast tussen week en weekend
+
 
 **Post-hoc test**: (2 mogelijkheden)
 - A priori (reeds gepland)
