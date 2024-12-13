@@ -1,0 +1,66 @@
+---
+
+kanban-plugin: board
+
+---
+
+## Backlog
+
+- [ ] **Transportgeografie** #school 
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2
+	- [ ] Hoofdstuk 3 @{18-12-24}
+- [ ] **Klimatologie** #school 
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2
+	- [ ] Hoofdstuk 3 @{20-12-24}
+- [ ] **Cartografie** #school
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2 @{17-12-24}
+- [ ] **Ruimtelijke Analyse** #school
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2
+	- [ ] Hoofdstuk 3
+	- [ ] Hoofdstuk 4 @{18-12-24}
+
+
+## Doing
+
+- [ ] **Mineralogie** #school
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2 @{16-12-24}
+- [ ] ***Fysica*** #school
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2
+	- [ ] Hoofdstuk 3
+	- [ ] Hoofdstuk 4 @{20-12-24}
+- [ ] ***Wiskunde*** #school
+	- [ ] Hoofdstuk 1
+	- [ ] Hoofdstuk 2
+	- [ ] Hoofdstuk 3 @{16-12-24}
+
+
+## To Review
+
+**Complete**
+
+
+## Done
+
+**Complete**
+- [ ] **Secret Santa** #egea
+	- [x] Boodschappen doen
+	- [x] Opsturen 
+	@{12-12-24}
+- [ ] **Presentatie Transportgeografie** @{10-12-24}#school
+- [ ] **Programmeren** - 09 
+	@{10-12-24} @@{22:00}#school
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":false,"new-line-trigger":"enter","full-list-lane-width":false,"move-tags":false,"tag-colors":[{"tagKey":"#school","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(0, 132, 255, 1)"},{"tagKey":"#egea","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(251, 176, 66, 1)"}],"move-dates":true,"date-format":"DD-MM-YY","date-display-format":"DD-MM-YY","show-relative-date":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(255, 0, 0, 0.74)","color":"rgba(255, 255, 255, 1)"},{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(255, 116, 61, 1)","color":"rgba(0, 0, 0, 1)"},{"isToday":false,"distance":3,"unit":"days","direction":"after","backgroundColor":"rgba(222, 192, 20, 1)","color":"rgba(0, 0, 0, 1)"}],"archive-with-date":false,"inline-metadata-position":"body"}
+```
+%%

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "Blockquote",
+    "Custom"
+  ],
+  "accentColor": ""
+}
