@@ -11,9 +11,6 @@
 	-> geen kristallijne structuur: amorf -> minerale stoffen maar geen echte mineralen
 - Gevorm door *anorganische* processen
 	-> uitzonderingen: **biomineralen**
-
-***Kristallen***: mineralen die de kans gehad hebben om in de vorm te groeien zoals het moet
-	=> *symmetrisch*
 ## Classificatie en Naamgeving
 1. **Klasse**: 
 	- *Danaclassificatie*: op basis van **chemische eigenschap**:
@@ -28,17 +25,58 @@
 ***Polymorfen***: mineralen met **zelfde samenstelling** maar **verschillende structuur** (verschillende groepen)
 
 Naamgeving niet altijd wetenschappelijk: vindplaats, naam ontdekker,...
+## Oorsprong
+- Nucleosynthese
+- Vorming zonnestelsel (**refractiecurve**)
+	-> binnenste planeten stenig
+- Vorming aarde
+
+**Platentektoniek**: recyclage mineralen
 
 > [!Info]
-> #### Aantal Mineralen
+> ##### Aantal Mineralen
 > ~4400 goedgekeurd
 > ~100 veel voorkomend
 > ~15 zijn **gesteentevormende mineralen**: genoeg om (bijna) alle gesteenten te identificeren
 > 
 >  *Meest belangrijke mineralen* in korst aarde
 
+## Kristalvorm
+***Kristallen***: mineralen die de kans gehad hebben om in de vorm te groeien zoals het moet
+	=> *symmetrisch
 
-# Mineralen en maatschappij/economie
+**Ontwikkelde polyedrische kristalvorm**: euhedrisch, idiomorf of automorf
+	=> *kristal* (symmetrisch)
+Volledig **onregelmatige kristalvorm**: anhedrisch, allotriomorf of xenomorf
+**Kristalvorm** langs een **gedeelte** van een vlak: subhedrisch of hypidiomorf
+
+In natuurlijk kristal: **combinaties van vormen** (*onregelmatigheden*)
+-> ***habitus***
+### Kristaltweelingen
+	= Regelmatige vergroeiing kristalindividuen die in bepaalde symmetrie staan
+	
+**Soorten**:
+- *Contacttweelingen*: raken elkaar aan volgens plat vlak
+- *Doorkruistweelingen*: zijn door elkaar heen gegroeid
+- *Doordringingstweelingen*: zodanig door elkaar heen gegroeid dat er geen inspringende hoeken voorkomen
+### Mineraalaggregaten
+- **Granulair**: korrelig
+- **Compact**: enorm fijnkorrelig
+- **Globulair**: naaldvormige kristallen die straalsgewijs uit centrum zijn gegroeid
+- **Oolietisch**: ronde tot ovale vormen
+- **Vezelig en stralig/Bladerig en lamellair**
+- **Dendritisch**
+- **Stalactitisch**
+- **Geode**: aggregaat van mineralen uitgekristalliseerd in holte
+
+> [!Example] Afbeelding
+> ![[Pasted image 20241213211333.png]]
+> ![[Pasted image 20241213211341.png]]
+> ![[Pasted image 20241213211350.png]]
+> ![[Pasted image 20241213211356.png]]
+
+
+## Mineralen en maatschappij/economie
 1. Grote **economische** waarde (*grondstoffen*)
 2. Esthetische waarde (*edelstenen*)
 3. Bouwelementen van gesteenten
@@ -46,7 +84,7 @@ Naamgeving niet altijd wetenschappelijk: vindplaats, naam ontdekker,...
 	- Tektoniek, erosie, klimaat, landbouw...
 5. Rol voor milieu en maatschappij
 	-> impact ontginning
-# Mineralen en duurzaamheid
+## Mineralen en duurzaamheid
 - **Beperkte hoeveelheid**
 - Mineraalconsumptie groeit sneller dan bevolking
 - Maatschappij is afhankelijk
@@ -71,12 +109,3 @@ flexGrow=1
 	- Economische ontwikkeling
 ```
 ````
-
-## Oorsprong
-
-- Nucleosynthese
-- Vorming zonnestelsel (**refractiecurve**)
-	-> binnenste planeten stenig
-- Vorming aarde
-
-**Platentektoniek**: recyclage mineralen

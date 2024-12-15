@@ -390,3 +390,58 @@ So: distance distortians along medians and parallels
 Equidistant only **in one direction**
 -> meridians: h = 1
 -> parallels: k = 1
+
+## Applications
+- **Equidistant Azimuthal**
+- **Orthographic Azimuthal**
+- **Equidistant cylindrical**
+- **Equidistant conic**
+## Equivalent Map Projections
+- **Preserving area**, *not shape*
+### Applications
+- **Lambert azimuthal equivalent**: k > 1; h < 1
+- **Gall-Peters** : cylindrical; k < 1; h > 1
+## Conformal Map Projections
+- **Preserving angles**: *preserving shapes*
+### Applications
+- **Stereographic azimuthal**
+- **Mercator** (cylindrical)
+- **Lambert conic conformal**
+## Compromise Map Projections
+- Hybrid between 3 above, for aesthetics or if compromise is desired
+### Applications
+- **Gnomonic Azimuthal**: h > 1; k > 1
+	- Shows *shortest distance as straight line*
+	- Used for navigation
+## Transformation
+		2 types: coordinate and datum transformation
+### Coordinate Transformation
+Convert between different coordinate systems (Geographic, Projected)
+
+Steps:
+
+1. Map coordinates to geographic coordinates (inverse projection)
+2. Geographic coordinates to new map coordinates (projection)
+
+OR
+
+1. Map coordinates to geographic
+2. **Molodensky** or **regression transformation** to geographic
+3. Geographic to new map coordinates
+### Datum Transformation
+Align data between different reference surfaces
+
+Steps:
+
+1. Map coordinates to geographic
+2. Geographic to **geocentric**
+3. Geocentric to **new geocentric**
+4. New geocentric to geographic
+5. Geographic to new map coordinates
+## Selecting a Map Projection
+Based on **factors**
+-> most critical factors have priority
+
+eg. conformal projection for navigation (angles)
+eg. equivalent projection for distribution (area)
+# Thematic Mapping

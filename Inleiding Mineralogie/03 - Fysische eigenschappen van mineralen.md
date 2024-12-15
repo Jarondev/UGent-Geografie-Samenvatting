@@ -5,7 +5,7 @@ Meestal een **habit**: kristal heeft onregelmatigheden
 Kwaliteit kristalvorm: (door invloed beschikbare ruimte tijdens groei)
 - **Euhedraal**: volledig omgeven door kristalvlakken (*goed ontwikkeld*)
 - **Subhedraal**: gedeeltelijk omgeven door kristalvlakken (*gematigd ontwikkeld*)
-- **Anhedral**: geen kristalvlakken (*slecht ontwikkeld*)
+- **Anhedraal**: geen kristalvlakken (*slecht ontwikkeld*)
 ***Aggregaat***: vergroeiing verschillende kristallen
 # Mechanische Eigenschappen
 	= bindingssterkte verschillende atomen

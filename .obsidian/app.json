@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "showRibbon": true,
   "strictLineBreaks": false,
-  "attachmentFolderPath": "./Afbeeldngen"
+  "attachmentFolderPath": "./Afbeeldingen",
+  "promptDelete": false
 }

@@ -94,30 +94,6 @@ Als:
 - **PPM** voor spoorelementen
 ## Bepalen Formule
 Door middel van atomaire proporties en gewicht
-## Variabiliteit in Samenstelling
-Mineralen zijn **zelden zuivere stoffen**
--> specifieke atoomplaatsen kunnen bezet worden door twee of meer verschillende chemische elementen (**ionaire substitutie**)
-### Factoren
-- **Afmetingen** van atomen die elkaar vervangen
-- **Lading** van ionen die betrokken zijn
-- **Roosterstructuur** mineraal
-- **Temperatuur** waarbij vervanging plaatsvindt
-	-> bij hogere temperatuur: hogere tolerantie voor ionaire substitutie, afmetingen ook groter
-## Vaste oplossing met eenvoudige ionaire substitutie
-Ion op bepaalde plaats vervangen door ander met **zelfde lading en gelijkaardige straal**
--> **isomorfe reeks**: samenstelling kan varieren in alle mogelijke richtingen
-
-Kation vervangen door **ander ion met andere lading**
--> ander kation moet vervangen worden om elektrische neutraliteit te behouden (**gekoppelde substitutie**)
-
-## Interstitele vaste oplossingen
-Wanneer er ionen voorkomen in ruimten waarin normaal geen ionen voorkomen
--> bv. tussenin rooster
-## Oplossingen vacature-omissie
-Wanneer 2 of **meer kationen vervangen** worden door **kation met hogere lading**
-- bv. kaliumveldspaat: K<sup>+</sup> -> Pb<sup>2+</sup>
-	- Elk Pb-ion vervangt 2 K-ionen
-Vacante plaats ontstaat; vormt **kleurcentrum** in veldspaat voor groene kleur (amazoniet)
 # Chemische Samenstelling & Kristalvorm
 ## Polymorfisme
 Zelfde verbindingen in **meerdere kristalstructuren**

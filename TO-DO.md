@@ -14,9 +14,6 @@ kanban-plugin: board
 	- [ ] Hoofdstuk 1
 	- [ ] Hoofdstuk 2
 	- [ ] Hoofdstuk 3 @{20-12-24}
-- [ ] **Cartografie** #school
-	- [ ] Hoofdstuk 1
-	- [ ] Hoofdstuk 2 @{17-12-24}
 - [ ] **Ruimtelijke Analyse** #school
 	- [ ] Hoofdstuk 1
 	- [ ] Hoofdstuk 2
@@ -26,16 +23,13 @@ kanban-plugin: board
 
 ## Doing
 
-- [ ] **Mineralogie** #school
-	- [ ] Hoofdstuk 1
-	- [ ] Hoofdstuk 2 @{16-12-24}
 - [ ] ***Fysica*** #school
 	- [ ] Hoofdstuk 1
 	- [ ] Hoofdstuk 2
 	- [ ] Hoofdstuk 3
 	- [ ] Hoofdstuk 4 @{20-12-24}
 - [ ] ***Wiskunde*** #school
-	- [ ] Hoofdstuk 1
+	- [x] Hoofdstuk 1
 	- [ ] Hoofdstuk 2
 	- [ ] Hoofdstuk 3 @{16-12-24}
 
@@ -43,6 +37,12 @@ kanban-plugin: board
 ## To Review
 
 **Complete**
+- [ ] **Cartografie** #school
+	- [x] Hoofdstuk 1
+	- [x] Hoofdstuk 2 @{17-12-24}
+- [ ] **Mineralogie** #school
+	- [x] Hoofdstuk 1
+	- [x] Hoofdstuk 2 @{16-12-24}
 
 
 ## Done
