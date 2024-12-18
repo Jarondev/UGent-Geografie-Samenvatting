@@ -29,3 +29,26 @@ Geschonden assumpties:
 1. Homoscedasticiteit
 2. Onafhankelijkheid
 3. Normaliteit
+
+**Probleem** voor regressieanalyse: data afhankelijk van ruimte
+Maar: 
+- Soms **geinteresseerd in ruimtelijk gecorreleerde residuen** om nieuwe hypothesen te maken
+- Kan wijzen op *ruimtelijke relaties variabelen*, of *verschil in opmetingen* afh. van persoon
+
+Oplossing: lokale regressiecoëfficienten
+
+### Plan
+1. Bouw regressiemodel op
+2. Bereken Moran's I om **autocorrelatie** vast te stellen
+3. Visualiseer residuen op kaart
+4. Indien autocorrelatie, gebruik **ruimtelijke regressietechnieken**
+	- **Spatial lag** model voor *afhankelijkheid in variabelen*
+		-> er wordt niet dieper ingegaan op relaties, *corrigeert enkel*
+	- **Spatial error** model voor *afhankelijkheid residu*
+	- **Expansiemethode** om lokale variaties en trends te modelleren dmv coordinaten of hogere-orde termen
+		-> laat toe dat relaties tussen variabelen in ruimte varieren
+
+**Globale regressiemodellen**: helling en intercept **geldig voor alle observaties**
+**Lokaal**: helling en intercept in *functie van andere variabelen*
+
+**Geografisch gewogen regressie**: lokale variaties in ruimtelijke relaties analyseren door lokale regressievergelijkingen te maken voor elke locatie met gewichten 
