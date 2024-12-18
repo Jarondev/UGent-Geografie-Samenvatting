@@ -1,17 +1,13 @@
 # Datatypes
 ## Kwantitatief
-
 ### Numeriek
-
 - **Interval**: gegevens met zinvolle verhoudingen zonder nulpunt (temperatuur, IQ)
 - **Ratio**: gegevens met absoluut nulpunt en zinvolle verhoudingen (lengte, gewicht)
 - **Discreet**: gegevens die alleen *vaste waarden* aannemen (aantal regendagen, aantal kinderen in een gezin)
 ## Kwalitatief
-
 - **Nominaal**: unieke, aparte observaties (bodemtype, nationaliteit,..)
 - **Ordinaal**: observaties met rangorde groter/kleiner/opvolgend
 # Steekproef
-
 - Meestal **onmogelijk** om over **volledige populatie** iets te weten te komen
 	-> steekproef
 # Types Statistisch Onderzoek
@@ -50,10 +46,8 @@
 > 
 > In een **tabel**:  gemiddelde, min/max, mediaan...
 > In een **grafiek**: histogram, boxplot..
-
 ## Grafische Methodes
 ### Histogram
-
 X-as: **variabele** - categorieen
 Y-as: **frequentie** 
 	-> *absoluut* of *relatief* (%)
@@ -63,7 +57,6 @@ Y-as: **frequentie**
 > <sup>Schoolgaande kinderen per gezin</sup>
 > Waarbij (a) de absolute frequentie gebruikt (aantal gezinnen) en (b) de relatieve frequentie
 ### Boxplot
-
 ````col
 ```col-md
 flexGrow=1
@@ -102,7 +95,6 @@ flexGrow=1
 ````
 ## Numerieke Methodes
 ### Centraliteitsmaten
-
 - **Gemiddelde** (gevoelig voor *extreme waarden*, goed bij symmetrische verdeling)
 	-> uitschieters worden vaak genegeerd
 - **Mediaan**: Te verkiezen boven gemiddelde bij assymetrische verdeling
@@ -112,7 +104,6 @@ flexGrow=1
 		-> ∑(f * x<sub>m</sub>) / ∑ f
 		-> waarbij f de frequentie is, en x<sub>m</sub> het klassemidden
 ### Spreidingsmaten
-
 - **Minimum & maximum**
 - **Spreidingsbreedte** (*'range'*): maximum - minimum
 - **Interkwartielafstand (IQR)**: maat van spreiding voor middelste 50% van de waarden
@@ -143,7 +134,6 @@ Ruimtelijke *variatie* van locaties rond centraal punt (ruimtelijke standaarddev
 > ![[Pasted image 20240919163623.png|252]] ![[Pasted image 20240919163643.png|226]]
 
 # Specifieke Aandacht voor Ruimtelijke Data
-
 - ***Modifable Areal Unit Problem*** (MAUP): resultaten van statistische analyses worden beïnvloed door de zonering van de geaggregeerde data
 - ***Gerrymandering***:  **manipuleren** van **grenzen** van **kiesdistricten** om een politiek voordeel te halen
 - ***Grensovergangen***: **fenomenen buiten studiegebied** kunnen deze in het studiegebied beinvloeden

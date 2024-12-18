@@ -1,5 +1,4 @@
 # Belang Kritisch Denken
-
 Irrationaliteit = *alternatieve* theorieen vaak met inherente tegenstrijdigheid
 -> "met statistiek kan je alles bewijzen" (**falsificatie**)
 
@@ -14,9 +13,7 @@ Irrationaliteit = *alternatieve* theorieen vaak met inherente tegenstrijdigheid
 - **Evoluerend** met meer verfijning en uitbreidingen
 - Mondiale menselijke inspanning
 # Wetenschappelijke Methode
-
 **Empirisch onderzoek**: gebaseerd op experimeten (*observaties*)
-
 1. Voorbereiding
 2. Observatie
 3. Probleemherkenning
@@ -30,7 +27,6 @@ Irrationaliteit = *alternatieve* theorieen vaak met inherente tegenstrijdigheid
 
 ## Hypothese Testen
 ### Benadering Hypothese
-
 Methode van *verschillende werkhypotheses* (Chamberlin, 1890; 1897)
 Hypothese is niet juist of fout: **schaalgebonden** aan **kwaliteit/sterkte/kracht** van hypothese
 
@@ -44,13 +40,11 @@ Hypothese is niet juist of fout: **schaalgebonden** aan **kwaliteit/sterkte/krac
 >(c) Meerdere hypotheses worden **tegelijk** getest om bredere blik te behouden
 >(d) Verklaren van een fenomeen door een **combinatie van meerdere hypotheses**
 ### Aanvaarding Hypothese
-
 Op basis van **ratio** tussen **aantal juiste** vs **foute cases**
 
 > [!Example] Voorbeeld
 > - 20:1: we aanvaarden onze hypothees niet, met de kans 1/20 dat we toch fout zijn (**Type 1-fout**)
 ### Hypothese -> Theorie
-
 1. **Concept**: *kankerverspreiding* in een regio 
 2. **Beschrijving**/vraagstelling: is *verspreiding geclusterd*?
 3. **Hypothese**: kankergevallen zijn *geassocieerd aan afstand* tot kerncentrale
@@ -62,7 +56,6 @@ Op basis van **ratio** tussen **aantal juiste** vs **foute cases**
 > Andere factoren kunnen van belang zijn! (meerdere hypotheses)
 
 ### Aandachtspunten
-
 **Corellatie**: tonen hetzelfde patroon (voorbeeld ice cream sales & shark attacks)
 **Causaliteit**: ene factor is oorzaak voor de ander
 
@@ -72,10 +65,8 @@ Op basis van **ratio** tussen **aantal juiste** vs **foute cases**
 3. ***Data = inherente variabiliteit en complexitiet***
 	-> model moet niet proberen beter te presteren dan werkelijkheid
 ## Belang van Statistiek
-
 - Steeds **meer data beschikbaar**
 - Nood aan op *wetenschap gebaseerde beslissingen*
 ## Probleem van Statistiek
-
 Veel vindingen of vaststellingen zijn **moeilijk of onmogelijk te reproduceren**
 -> "***replication crisis***"

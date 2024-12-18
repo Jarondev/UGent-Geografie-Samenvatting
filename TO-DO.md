@@ -14,11 +14,6 @@ kanban-plugin: board
 	- [ ] Hoofdstuk 1
 	- [ ] Hoofdstuk 2
 	- [ ] Hoofdstuk 3 @{20-12-24}
-- [ ] **Ruimtelijke Analyse** #school
-	- [ ] Hoofdstuk 1
-	- [ ] Hoofdstuk 2
-	- [ ] Hoofdstuk 3
-	- [ ] Hoofdstuk 4 @{18-12-24}
 
 
 ## Doing
@@ -37,6 +32,11 @@ kanban-plugin: board
 ## To Review
 
 **Complete**
+- [ ] **Ruimtelijke Analyse** #school
+	- [x] Hoofdstuk 1
+	- [x] Hoofdstuk 2
+	- [x] Hoofdstuk 3
+	- [x] Hoofdstuk 4 @{18-12-24}
 - [ ] **Cartografie** #school
 	- [x] Hoofdstuk 1
 	- [x] Hoofdstuk 2 @{17-12-24}
