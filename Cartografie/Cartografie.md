@@ -445,6 +445,9 @@ Based on **factors**
 eg. conformal projection for navigation (angles)
 eg. equivalent projection for distribution (area)
 # Thematic Mapping
+## Summary
+![[Safari _ 19-12-2024_0141PM@2x.png]]
+![[Safari _ 19-12-2024_0140PM@2x.png]]
 ![[Safari _ 18-12-2024_1059PM@2x.png]]
 
 ## Choropleth Maps
@@ -564,9 +567,24 @@ By eg. using pie charts instead of circles
 ![[Safari _ 18-12-2024_1058PM@2x.png|525]]
 ## Isarithmic Maps
 Map showing **lines connecting points of equal value**
-- Can shade or color area between
+- Can **shade** or color area between
 - For mapping **continuous and smooth phenomena**
 	-> also heat maps
+
+**Legend**: include text statement to indicate units, interval
+### Selection of isarithmic intervals
+<u>Dont</u> visualize isolines of all data values
+Apply at **uniform interval** 
+
+Steps:
+1. Consider range of data
+2. Experiment
+3. Choose lowest isoline value
+
+**Quality** depends on
+1. point **data quality**
+2. **number** of sample points 
+3. **interpolation method** used
 
 Data types: 
 - **True point data** (*isometric*)
@@ -595,3 +613,84 @@ Data types:
 		![[Safari _ 19-12-2024_1020AM@2x.png|375]]
 		All: global; simple: within circle, quadrant..
 3. Kriging (advanced): IDW + spatial autocorrelation
+## Dynamic Flow Map
+Show linear **movement between places**
+-> *actual items* (migration, export, trajectories) or *intangible things* (ideas, internet traffic)
+
+**Qualitative flow**: show types of movement (what and where)
+**Quantitative flow**: show quantity (what, where, how much)
+
+Line **width or lightness** -> indicates **value** in quantitative flow maps
+
+Legend: Mention **what and unit** if applicable, sometimes no legend needed
+
+**Spiral tree**: show migration branches from central point
+### Design
+- Figure/ground contrast -> **(smaller) flow on top**
+- Include *arrows* if direction is relevant
+- Include comprehensive legend
+#### Line Scaling
+Unclassed: scale in **proportion** to represented quantities
+Classed: if range is too big, scale based on applicable class
+## Cartogram
+**Size of area is proportional to data** value
+For **ratio data**
+### Contiguous Cartogram
+Area units stay connected
+-> shape more easily preserved
+
+**Preserve shape** by generalizing/simplifying shape and keeping important features
+
+For **small scale maps** (eg. world scale)
+### Noncontiguous Cartogram
+**Seperated area units**
+-> more or less same location, with gaps
+
+Easy to scale and construct, **preserves true shape**
+Does not convey real geographic space, no overall compact form
+
+**Variant: using circles (*Dorling*)**
+
+### Construction
+**Manual**
+With **automated methods**
+- Cartodraw, diffusion-based method, medial-axis based cartograms, fast flow-based method
+# Multivariate Maps
+Maps that **visualize two or more data variables** at the same time
+**Legend design essential** for understanding meaning
+### Encoding
+**Inter-symbol encoding**: show both variables with distinct symbol
+-> "combining" thematic map
+**Intra-symbol encoding**: put both variables into one symbol (eg. size for one and color for other)
+# Uncertainty Visualization
+Types of uncertainty:
+- **What**: attribute/thematic
+- **Where**: location
+- **When**: temporal
+
+Can be **combined** with other data in multivariate map (eg. by hashed polygons)
+Or use **more maps** to **compare** and illustrate range of possibilities
+-> viewers can analyze and make their own conclusions
+
+Reasons:
+1. **ethical necessity**
+2. can play **important role** in decision making
+# Web Maps
+**Web mapping**: focuses on <u>technical aspects</u> (designing, implementing, generating, **delivering maps**)
+- Design map, UI, content
+- Deliver from server in some format to client
+- On world wide web: network(TCP/IP), protocol (HTTP), content (HTML)...
+**Web cartography**: web mapping + <u>theoretical aspects</u> (uses, evaluation, optimization, usability)
+**WebGIS**: focus on <u>processing and analyzing</u>
+# Ongoing Research
+**Location Based Services (LBS)**: *deliver information based on location of user*
+-> navigation, city guide, diverse apps...
+
+Trend towards *non-intrusive and natural interface*: AR, wearables...
+
+**Big location data**: tracking data, mobile phone data, location based social media
+- 3V's (velocity, volume, variety)
+-> **privacy and ethics** play important role
+
+**VR -> MR -> AR** as means of *immersion*
+- Heads up display, digital glasses
