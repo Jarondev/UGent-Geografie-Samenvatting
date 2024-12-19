@@ -445,3 +445,153 @@ Based on **factors**
 eg. conformal projection for navigation (angles)
 eg. equivalent projection for distribution (area)
 # Thematic Mapping
+![[Safari _ 18-12-2024_1059PM@2x.png]]
+
+## Choropleth Maps
+Distinctive color or shading applied to **statistical or administrative areas**
+- To represent magnituted/values of attributes in area
+- Often well-defined and known areas
+
+Appropriate for phenomenon uniformly distributed within area and **changes at boundary**
+-> eg. GDP
+
+Use ***equivalent map projection***
+
+**Bivariate and multivariate maps**: mapping more geographical phenomena together
+-> eg. combining into color matrix
+
+### Issues to consider
+**Normalize data** to make comparable (eg. percentage of area instead of raw number)
+- Ratios involving area (eg. density)
+- Ratios independent of area size (eg. GDP per capita..)
+
+**Data classification**: classed vs unclassed
+- *Classed*: grouped into classes with value range
+	- *Equal interval*
+	- *Quantiles*: each class has same number of area units
+	- *Mean-standard deviation*: groups data based on how far values deviate from median
+	- *Optimal* (median): divides data to minimize difference within each class based on median
+		- Natural breaks based on algorithms
+	- **Number of classes**
+		- Depending on map theme, data pattern and complexity
+		- *Typically 7 +/- 2* (*algorithms exist* to find optimal amount)
+		-> **outliers often seperated** from dataset
+- *Unclassed*: color assigned proportionally to each data value
+	-> more accurate results but harder to interpret
+
+**Areal Symbolization**
+- *Visual variable*: color lightness
+- *Visual hierarchy*: important things should look important
+- *Legend issues*: symbols first, then definition, ranked low to high
+
+Adding **other references: to enhance interpretation** (eg. city names)
+## Dasymetric Maps
+**Refinement** of statistical data **using secondary data**
+-> follow technique in choropleth maps
+- Can show *variations within statistical area units*
+Secondary data sources: land cover, use, elevation, coastlines, imagery....
+
+***Quality depends on employed assumptions/rules and secondary data***
+
+Steps:
+1. Start with **choropleth map**
+2. Get **ancillary data** for boundary refinement
+3. **Re-compute and re-map**
+
+> [!Example]
+> ![[Safari _ 18-12-2024_0954PM@2x.png]]
+
+## Dot Maps
+Dots used to **communicate variation in spatial density**
+
+Use **equivalent map projection**
+
+Types:
+- **One to one** (*nominal point thematic map*): 1 dot for 1 occurrence
+	- Often qualitative data
+- **Many to one** (more often used): 1 dot for multiple occurrences
+
+**Advantages**: easy to understand, effective, show density depending on additional data
+**Disadvantages**: perception of density not linear
+
+### Data Suitability
+- Normalized or ratio data should be ***avoided***
+- Datasets with **large attribute ranges** are **more difficult** to visualize
+
+### Considerations
+**Size of area unit**
+	- Use data at finest level
+	- Show boundaries of areas at higher levels
+**Dot value and size**: find balance
+	- Coalescence in densest part
+**Dot placement**: try to place *as close to real distribution* as possible
+**Legend design**: multiple options
+	 ![[Safari _ 18-12-2024_1012PM@2x.png|425]]
+
+### Bivariate and multivariate dot maps
+- Dots with **different color hues** to show **different phenomena**
+- **Possible to combine** with other thematic map types
+## Proportional Symbol Maps
+Select **symbol form**, **vary size** in proportion to quantities it represents
+
+For **quantitative data**
+
+### Data Suitability
+**True point data**: data measured at point locations (eg. passengers departing train station)
+**Conceptual point data**: aggregated over area but shown as point at centroid (eg. population)
+Less appropriate for:
+- Interval data (eg. temperature)
+- Densities
+- Data with small and unchanging attributes
+### Symbols
+- Geometric (2D, 3D) -> <u>circles</u> commonly used
+- Pictorial
+
+Handle overlaps by putting **smaller on top of larger** or use **inset map**
+### Scaling
+**Scaling** *based on area* or volumes of symbol
+-> difficult for pictorial
+#### Continuous proportional scaling
+Scale area based off comparing attribute to other points attribute
+
+Area size is in proportion to radius of circle -> area * 4 = radius * 2
+#### Range graded scaling
+Based on **classes**, size scaled to **middle value** of each class
+### Legend design
+![[Safari _ 18-12-2024_1056PM@2x.png|625]]
+### Bivariate and Multivariate proportional symbols
+By eg. using pie charts instead of circles
+![[Safari _ 18-12-2024_1058PM@2x.png|525]]
+## Isarithmic Maps
+Map showing **lines connecting points of equal value**
+- Can shade or color area between
+- For mapping **continuous and smooth phenomena**
+	-> also heat maps
+
+Data types: 
+- **True point data** (*isometric*)
+- **Conceptual point data** (*isoplethic*)
+![[Safari _ 19-12-2024_0937AM@2x.png|525]]
+### Requirements
+1. Data is **continuous in nature** (*found everywhere in mapped area*)
+2. Can be conceptualized in a geographic volume
+3. Map designers must understand **distribution** being mapped
+### Process
+1. Collect or obtain point data at sample locations
+2. **Interpolation**: estimate based on sample points
+3. **Connect** locations of equal values using smooth lines (*isolines/contours*)
+### Interpolation
+**Linear interpolation**: assume *uniform linear distribution*
+**Automated interpolation/gridding/surface modelling**: using interpolation methods
+#### Interpolation methods
+![[Safari _ 19-12-2024_1027AM@2x.png|500]]
+1. **Linear triangulation**
+	1. Create optimal set of triangles within sample data points
+		- **Thiessen polygons** around sample points: points within polygon are closer to sample than nearby ones
+	2. Contour lines by interpolating along edges
+2. **Inverse Distance Weighted (IDW)**: weight based on distance to nearby points
+	- *Neighborhood selection: which samples to use?*
+		-> all/simple/quadrant/octant
+		![[Safari _ 19-12-2024_1020AM@2x.png|375]]
+		All: global; simple: within circle, quadrant..
+3. Kriging (advanced): IDW + spatial autocorrelation
