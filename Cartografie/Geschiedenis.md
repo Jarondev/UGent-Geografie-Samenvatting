@@ -55,7 +55,7 @@ Portugal: **navigatiekaarten**
 Globe Gemma Frisius in samenwerking met **Mercator**
 Abraham Ortelius: Theatrum Orbsi Terrarum (atlas)
 
-17e eeuw
+17e eeuw (Gouden Eeuw van Republiek der Zeven Verenigde Nederlanden)
 Verschillende kaartuitgevers
 **Willem Janszoon Blaeu**: eerste algemene atlas
 
