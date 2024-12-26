@@ -35,8 +35,12 @@ Types
 **Vickers** schaal: weerstand tegen indrukken harde punt
 **Moh's** schaal:
 - 10 verschillende mineralen met verschillende hardheid
+- Hardheid > 7: edelsteen (indien zuiver en doorzichtig)
+**Povarennykh** schaal:
+- Meer preciezere schaal dan Moh's (15 ipv 10) met kristallografische richting
 *Bindingssterkte is bepalend* -> sterkere binding: grotere hardheid (kleinere ionstraal)
 - Temperatuur & druk beinvloeden dichtheid
+- Zwakkere binding in een **richting** -> mineraal zal in deze richting **makkelijker breken** (**splijtvlakken**)
 ## Cohesie
 	= weerstand mineraal tegen vervorming
 Types
@@ -48,10 +52,16 @@ Types
 - **Elastisch**: gaat terug naar originele vorm na buiging
 # Massa Mineralen
 Dichtere structuur -> dichtere organisatie polymorf -> hoger gewicht
+**Absolute** vs **relatieve** massa
+- Absoluut in g/cm<sup>3</sup>
+- Relatief ivm water bij 4°C
 ## Bepalen massa
 Bepaald door **chemische samenstelling & kristalstructuur**:
 - *Zwaardere elementen* wegen meer
 - *Rangschikking van atomen*
+	- Metalen met dichtste bolstapeling wegen bv meer
+	- Covalente bindingen met inefficiente stapeling + sterk directioneel wegen minder
+- *Ionstraal*
 Meten door:
 - Aanvoelen in **hand**
 - Meten in **vloeistof** (wet van Archimedes)
@@ -68,10 +78,15 @@ Types
 > ![[Pasted image 20241012171230.png]]
 ## Kleur
 Afhankelijk van welke golflengtes geabsorbeerd worden
-**Idiochromatisch**: kleur kan diagnostisch zijn wanneer het typisch is voor mineraal
+**Idiochromatisch**: wanneer mineraal constante kleur heeft
 -> soms is kleur niet typisch bij verontreinigingen: **allochromatisch**
-### Reden voor kleur
 
+**Brekingswet van Snellius**: beschrijft buiging licht van ene medium naar andere
+### Streep
+	= Kleur van fijn poeder materiaal op porcelein plaatje
+Porcelein plaatje heeft **hardheid 7**:
+	-> Hardere mineralen laten geen streep achter
+### Reden voor kleur
 #### Crystal Field Theory
 ***Orbitaal hopping***:  elektronen springen tussen verschillende orbitalen 
 -> beinvloedt *welke golflengtes* van licht *worden geabsorbeerd*
@@ -88,25 +103,25 @@ Hoe *groter energieband-kloof* -> *minder* specifieke *kleur*
 -> metaalglans
 
 ![[Pasted image 20241012215938.png]]
+Voorbeeld: diamant kan soms sporen van N hebben (enkele ppm)
+-> diamant krijgt gele kleur
 #### Moleculaire orbitaal transities
 Meestal in **mineralen met verschillende oxidatietoestand**
 *Verspringen* van valentietoestand *vergt energie*, licht levert energie
 #### Kleurcentra, kristaldefecten
-**Gat in  structuur** met *elektron die opvult*
+**Gat in structuur** met *elektron die opvult* en versprint van energieniveau
 -> absorbeert licht
 #### Onzuiverheden
 - Kwarts: groen -> chloriet  
 * Calciet: zwart -> MnO  
 * Hematiet: grote vervuiler
-## Streek
-	= Kleur van fijn poeder materiaal op porcelein plaatje
-Porcelein plaatje heeft **hardheid 7**:
-	-> Hardere mineralen laten geen streek achter
 ## Kleurenspel
-- **Inwendige reflectie** (briljantie): kleur *afhankelijk van hoek invallend licht*
-- **Lichtverstrooiing**: inwendige glans door breking
-- **Opaal**: fijne lichtbreking nabij oppervlakte
+- **Inwendige reflectie** (briljantie): kleur *afhankelijk van hoek invallend licht* (hoge brekingsindex)
 - **Asterisme**: schittering door regelmatig gerangschikte insluitsels
+- **Lichtverstrooiing**: inwendige glans door breking
+- **Opaal**: fijne lichtbreking nabij oppervlakte door inwendige structuur
+## Dubbelbrekende eigenschap
+1. **Optisch isotrope media**: brekingsindex zelfde in alle richtingen
 ## Luminescentie
 Beschieten andere soort elektromagnetische golf
 -> **materiaal absorbeert energie en zendt terug uit als zichtbaar licht**
@@ -130,6 +145,9 @@ Mineralen onder druk ontwikkelen elektrische lading
 -> **Piezo-elektrisch**
 
 ## Magnetische eigenschap
+Door **spin ongepaarde elektronen** in orbitaal die magnetisch moment genereren
+-> soms is spin gericht
+
 ***Diamagnetisme***: alle orbitalen opgevuld -> geen magnetisme
 ***Paramagnetisme***: random organisatie ionen -> licht magnetisch
 ***Ferrimagnetisme***: ionen wijzen deels in zelfde richting -> matig magnetisch
@@ -144,5 +162,5 @@ Mineralen onder druk ontwikkelen elektrische lading
 - **Geur**: zwavel-mineralen (rotte eieren), pyriet wanneer verwarmd
 - **Smaak**: NaCl (zout)
 - **Chemische samenstelling** d.m.v. testen (HCl op kalksteen)
-- **Radioactiviteit**
+- **Radioactiviteit**: instabiele isotopen *zenden straling uit* terwijl ze **vervallen** naar stabiele vormen
 - Kijken naar afzettingsgesteente (**paragenesis**)

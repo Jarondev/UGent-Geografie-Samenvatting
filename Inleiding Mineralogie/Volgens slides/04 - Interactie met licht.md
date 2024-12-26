@@ -73,7 +73,7 @@ Bij grotere brekingsindex: meer kleur langs die hoek
 Eigenschap om **verschillende kleuren** te vertonen wanneer het **vanuit verschillende hoek** bekeken wordt
 -> selectieve absorpties licht
 
-# X-stralen diffractie
+# X-stralendiffractie
 ## X-stralen
 Electromagnetische stralen met kleinere golflengte; hogere frequentie
 -> hoger **niveau van detail**

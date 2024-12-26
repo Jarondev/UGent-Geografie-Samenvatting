@@ -92,28 +92,33 @@ Duidt op *thermische stabiliteit en samenstelling* d.m.v. **thermogravigram**
 Als:
 - **Gewichtspercentages** van hoofdelementen
 - **PPM** voor spoorelementen
-## Bepalen Formule
-Door middel van atomaire proporties en gewicht
-# Chemische Samenstelling & Kristalvorm
-## Polymorfisme
+### Chemische Formule 
+**Structuurformule**: hoeveel atomen of mol in roostereenheid voorkomen en waarin multipliciteit eenheidscel gebruikt wordt
+
+Substituties weergegeven in ()
+-> bv (Mg, Fe)<sub>2</sub>SiO<sub>4</sub> voor olivijn
+	-> Mg kan vervangen worden door Fe maar is **dominant** (eerste element)
+-> indien verhouding gekend: schrijf **percentage** bij
+## Chemische Samenstelling & Kristalvorm
+### Polymorfisme
 Zelfde verbindingen in **meerdere kristalstructuren**
 -> kristalstructuur niet enkel door samenstelling maar ook *omstandigheden* (p, T)
 
 Wijziging omstandigheden: **ene polymorf kan naar andere gaan** indien stabiel
-### Types
+#### Types
 1. **Reconstructief polymorfisme**: overgang door verbreken bindingen en volledige inwendige herschikking ionen
 2. **Verplaatsingspolymorfisme**: kleine verplaatsing ionen waardoor kleine verandering is in hoek tussen verschillende verbindingen (*kinking*)
 3. **Orde-wanorde polymorfisme**: bij **hoge temperatuur: willekeurig** verdeelde kationen (*wanorde*), bij lage: op vaste, regelmatige plaatsen in rooster (*orde*)
-## Isotypie en Homiotypie
+### Isotypie en Homiotypie
 **Isotypisch**: chemische verbindingen die in zelfde kristalstructuur uitkristalliseren
 **Isomorfen**: chemisch verwantschap tussen isotypische kristalsoorten waarbij ze homogene mengkristallen vormen
 **Homiotypisch**: verbindingen die isostructureel zijn zonder gemeenschappelijk kation- of aniongroepen
-## Grafische voorstelling samenstellingen
-### Lijndiagram
+
+### Grafische voorstelling samenstellingen
+#### Lijndiagram
 **Verhouding** tussen mengkristallen weergegeven op een lijn
 ![[Pasted image 20241111160928.png]]
-### Driehoeksdiagram
+#### Driehoeksdiagram
 3 mengkristallen weergegeven op een driehoek
 ![[Pasted image 20241111160941.png]]
-## Chemische Formule 
-**Structuurformule**: hoeveel atomen of mol in roostereenheid voorkomen en waarin multipliciteit eenheidscel gebruikt wordt
+

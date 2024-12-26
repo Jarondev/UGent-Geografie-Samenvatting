@@ -86,6 +86,10 @@ In natuurlijk kristal: **combinaties van vormen** (*onregelmatigheden*)
 	-> impact ontginning
 ## Mineralen en duurzaamheid
 - **Beperkte hoeveelheid**
+	- Abundantie in Aardkorst
+		Zuurstof: 94% van volume
+		Si: ~27% van gewicht
+		-> **oxiden en silicaten** (2 meeste gesteentevormende mineralen)
 - Mineraalconsumptie groeit sneller dan bevolking
 - Maatschappij is afhankelijk
 - *Duurzame ontwikkeling!*: voldoen aan huidige noden zonder toekomstige generaties te beroven
