@@ -6,14 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ***Wiskunde*** #school
-	- [x] Hoofdstuk 1
-	- [ ] Hoofdstuk 2
-	- [ ] Hoofdstuk 3 @{16-12-24}
-- [ ] **Transportgeografie** #school 
-	- [ ] Hoofdstuk 1
-	- [ ] Hoofdstuk 2
-	- [ ] Hoofdstuk 3 @{18-12-24}
 - [ ] **Klimatologie** #school 
 	- [ ] Hoofdstuk 1
 	- [ ] Hoofdstuk 2
@@ -23,10 +15,7 @@ kanban-plugin: board
 ## Doing
 
 - [ ] ***Fysica*** #school
-	- [ ] Hoofdstuk 1
-	- [ ] Hoofdstuk 2
-	- [ ] Hoofdstuk 3
-	- [ ] Hoofdstuk 4 @{20-12-24}
+	@{24-01-25}
 
 
 ## To Review

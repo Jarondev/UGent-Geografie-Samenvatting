@@ -10,4 +10,6 @@
 | Gerrymandering                 | manipuleren van grenzen van kiesdistricten om een politiek voordeel te halen                                                                       |
 | Betrouwbaarheidsinterval       | 'Ware' gemiddelde ligt binnen interval rond steekproefgemiddelde                                                                                   |
 | Normale verdeling              | 95% ligt tussen 1.96 standaardafwijkingen van gemiddelde                                                                                           |
-|                                |                                                                                                                                                    |
+| Leptokurtosis                  | Verdelingen met hoge piek, langere staarten                                                                                                        |
+| Platykurtosis                  | Verdeling met lage piek (bolvormig), korte staarten                                                                                                |
+| Mesokurtosis                   | Normale verdeling                                                                                                                                  |

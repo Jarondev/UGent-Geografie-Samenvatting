@@ -59,8 +59,6 @@ Aantal holtes: 2n tetraedische, n octaedrische
 	- *Subtiele variatie* binnen soort (kleur, onzuiverheden, ongewoon hoge concentraties bepaalde component)
 
 ***Polymorfen***: mineralen met **zelfde samenstelling** maar **verschillende structuur** (verschillende groepen)
-
-Naamgeving niet altijd wetenschappelijk: vindplaats, naam ontdekker,...
 ## Oorsprong
 - Nucleosynthese
 - Vorming zonnestelsel (**refractiecurve**)
@@ -283,25 +281,30 @@ Types
 - **Snijdbaar**
 - **Rekbaar**: kan uitgerekt worden tot dunne draden
 - **Flexibel** (plooibaar): gaat niet terug naar origineel vorm 
-- **Elastisch**: gaat terug naar originele vorm na buiging
+- **Elastisch**: gaat terug naar originele vorm na buiging 
 ## Massa Mineralen
-Dichtere structuur -> dichtere organisatie polymorf -> hoger gewicht
+````col
+```col-md
+flexGrow=1
+===
+#### Factoren
+- Type elementen
+- **Kristalstructuur** (dichtste bolstapeling)
+- **Ionstraal**
+```
+```col-md
+flexGrow=1
+===
+#### Meetmethodes
+- Aanvoelen in hand
+- In vloeistof
+- **Jolly balance**: meten met veren
+```
+````
+
 **Absolute** vs **relatieve** massa
 - Absoluut in g/cm<sup>3</sup>
 - Relatief ivm water bij 4°C
-### Bepalen massa
-Bepaald door **chemische samenstelling & kristalstructuur**:
-- *Zwaardere elementen* wegen meer
-- *Rangschikking van atomen*
-	- Metalen met dichtste bolstapeling wegen bv meer
-	- Covalente bindingen met inefficiente stapeling + sterk directioneel wegen minder
-- *Ionstraal*
-Meten door:
-- Aanvoelen in **hand**
-- Meten in **vloeistof** (wet van Archimedes)
-	- *Water*, zware vloeistoffen
-		-> principe van pannen (goud zinkt in water)
-- Jolly balance: lengte van veren
 ## Kleur
 Afhankelijk van welke golflengtes geabsorbeerd worden
 **Idiochromatisch**: wanneer mineraal constante kleur heeft
@@ -349,7 +352,7 @@ Meestal in **mineralen met verschillende oxidatietoestand**
 * Calciet: zwart -> MnO  
 * Hematiet: grote vervuiler
 ### Kleurenspel
-	- **Inwendige reflectie** (briljantie): kleur *afhankelijk van hoek invallend licht* (hoge brekingsindex)
+- **Inwendige reflectie** (briljantie): kleur *afhankelijk van hoek invallend licht* (hoge brekingsindex)
 - **Asterisme**: schittering door regelmatig gerangschikte insluitsels
 - **Lichtverstrooiing**: inwendige glans door breking
 - **Opaal**: fijne lichtbreking nabij oppervlakte door inwendige structuur
@@ -495,7 +498,7 @@ Bij anisotropen: variatie brekingsindex op welbepaalde as
 
 Bij grotere brekingsindex: meer kleur langs die hoek
 
-#### Pleochroisme
+#### Plochroisme
 Eigenschap om **verschillende kleuren** te vertonen wanneer het **vanuit verschillende hoek** bekeken wordt
 -> selectieve absorpties licht
 ## X-stralendiffractie
@@ -592,7 +595,7 @@ In **teflon flesjes** op een hot plate
 - Moleculen ioniseren en massa/laadverhouding analyseren
 ## Vaste Stalen
 ### Electronenmicroprobe (emp)
-Gebruik stabiele en goed-gerichte **buis van elektronen** (X-straal)
+Gebruik stabiele zen goed-gerichte **buis van elektronen** (X-straal)
 -> **rontgenstralen** worden opgewekt die kenmerkend zijn voor elementen monster
 
 Kan geprogrammeerd worden om *meer spots te analyseren*
@@ -726,90 +729,65 @@ X<sub>m</sub>Z<sub>n</sub> formaat
 
 Oorsprong vaak in hydrothermale gangen -> **ertsaders** (veins)
 ### Type X<sub>2</sub>Z
-Kristalliseren **uit hoger stelsel** bij **hogere temperatuur** maar veranderen bij afkoelen
-- Ag<sub>2</sub>S (**argentiet** bij hoge T, **acanthiet** bij lage T)
-- Cu<sub>2</sub>S (**chalcociet** of **koperglans**): orthorombisch-hexagonaal
-	- Secundair gevormd nabij watertafel door reactie kopersulfaat met oorpsonkelijke sulfide ertsen
+***argentiet*** bij hoge T, ***acanthiet*** bij lage T
+**chalcociet** of **koperglans**
 ### TypeX<sub>3</sub>Z<sub>2</sub>
-	Cu<sub>5</sub>FeS<sub>4</sub> (**borniet**): tetragonaal-isometrisch
-- Belangrijk primair kopererts
+**borniet**
 ### Type XZ
-Hoge symmetrie, soms dimorfisme
-- PbS (**galeniet**, **loodglans**): regulair
-	- Primair in hydrothermale aders en rond pegmatieten, in aders in kalksteen en dolomiet samen met sfaleriet
-- ZnS (**sfaleriet**, **zinkblende**): regulair kubus
-	- Primair in hydrothermale gangen of mesasomatisch, als aders in kalksteen en dolomiet
-- CuFeS<sub>2</sub> (**chalcopyriet**, **koperkies**): tetragonaal, zelfde als sfaleriet maar Cu vervangt afwisselend Fe
-	- Samen met andere sulfiden in hydrothermale gangen en pegmatieten
-- HgS (**cinnaber**): trigonaal
-	- In aders nabij vulkanische gesteenten en warmwaterbronnen, in breuken in sedimentaire gesteenten
-- AsS (**raelgar**): ringvormige monoklien
-	- In laagtemperatuur-hydrothermale sulfide ertsaders, soms kalksteen en klei
-- Fe<sub>1-x</sub>S (**pyrrhotiet**): monoklien bij lage T, hexagonaal bij hoge T
-	- In mafische magmatische, contactmetamorfe gesteenten, aders en pegmatiet
+**galeniet**, **loodglans**
+***sfaleriet***, **zinkblende**
+***chalcopyriet***, **koperkies**: zelfde als sfaleriet maar Cu vervangt afwisselend Fe
+**cinnaber**
+**raelgar**
+**pyrrhotiet**
 ### Type X<sub>2</sub>Z<sub>3</sub>
-Sb<sub>2</sub>S<sub>3</sub> (**stibniet**): rombisch
-- laagtemperatuur hydrothermale aders, warmwaterbronnen
+**stibniet**
 ### Type Xz<sub>2</sub>
-- FeS<sub>2</sub> (**pyriet**)
-	- Soms met goud, soms koper
-	- *Meest voorkomend*, magmatisch, metamorfisch, sedimentair
-- FeS<sub>2</sub> (**markassiet**)
-	- Snelle verwering
-	- Nabij oppervlakte in sedimenten of aders
+**pyriet**
+**markassiet**: snelle verwering nabij opp.
 ## Haliden
 Gemaakt uit elektronegatieve halegonionen (Cl-, Br-, I-, F-)
-- NaCl (**haliet**): isometrisch door evaporatie, zoutsmaak
-- KCl (**sylviet**): zeldzaam haliet, habitus
-- CaF<sub>2</sub> (**fluoriet**): isometrisch, doordringingstweeling, fluorescentie
-	- In hydrothermale aderafzettingen & metallische ertsen
-- Na<sub>3</sub>AlF<sub>6</sub> (**cryoliet**)
-- Cu<sub>2</sub>Cl(OH)<sub>3</sub> (**atacamiet**)
+***haliet***: evaporatie, zoutsmaak
+***sylviet***: zeldzaam haliet, habitus
+**fluoriet**: doordringingstweeling, fluorescentie
+**cryoliet**
+**atacamiet**
 ## Oxiden en Hydroxiden
 Hard, dens, refractair
 Vaak accessorisch in magmatische & metamorfe gesteenten
 ### Oxiden
 #### Type XO
-- MgO (**periklaas**): in contactmetamorfe marmers
-
-marmer = gemetamorfoseerde kalksteen
+**periklaas**
 #### Type X<sub>2</sub>O
-- Cu<sub>2</sub>O (**cupriet**): in geoxideerde aanrijkingszone van koperafzettingen
-- H<sub>2</sub>O (ijs): waterstofbinding
+**cupriet**
+H<sub>2</sub>O (ijs)
 #### Type X<sub>2</sub>O<sub>3</sub>
 **Hematietgroep**: hexagonale dichtste bolstapeling
-- Al<sub>2</sub>O<sub>3</sub> (**korund**): accessorisch in metamorfe gesteenten
-- Fe<sub>2</sub>O<sub>3</sub> (**hematiet**):
-	- Belangrijkste ijzererts; BIF
-	- In vulkanisch, metamorfe, magmatisch & sedimentair
-- FeTiO<sub>3</sub> (**ilmeniet**)
-	- In magmatische gesteenten, belangrijk titaniumerts
+- **korund**
+- **hematiet** 
+- **ilmeniet**
 #### Type XO<sub>2</sub>
 **Rutielgroep**: kation-O octaëdrische coördinatie
-- SnO<sub>2</sub> (**cassiteriet**): hoge t hydrothermale aders of metasomatische afzettingen
-- TiO<sub>2</sub> (**rutiel**): *ultrastabiel*; accessorisch in plutonische en metamorfe gesteenten
-	- Polymorfen: anataas (tetragonaal) en brookiet (orthorombisch)
-- MnO<sub>2</sub> (**pyrusoliet**): in moerassen, op meer- en zeebodems
-- UO<sub>2</sub> (**uraniniet**): isometrisch in graniet- en syenietpegmatieten en hydrothermale afzettingen
+- **cassiteriet**
+- ***rutiel***: *ultrastabiel*
+	- Polymorfen: ***anataas*** (tetragonaal) en ***brookiet*** (orthorombisch)
+- **pyrusoliet**
+- **uraniniet**
 #### Type XY<sub>2</sub>O<sub>4</sub>
 **Spinelgroep**: dichtste regulaire bolstapeling van O-atomen, kationen in octaeders & tetraeders
 *Invers spinel*: X-ionen op tetraeders ipv octaeders
-- MgAl<sub>2</sub>O<sub>4</sub> (**spinel**): kubisch, allochromatisch
-	- Aan hoge t in onverzadigde magmatische gesteenten en contactmetamorfose
-- Fe<sup>3</sup>O<sup>4</sup> (**magnetiet**): inverse spinel, kubisch, belangrijk ijzererts (BIF)
-	- Primair: magmatisch, metamorf, sedimentair
-	- Secundair in zwarte strandzanden
-- FeCr<sub>2</sub>O<sub>4</sub> (**chromiet**): isometrisch, lijkt op magnetiet
-	- In peridotieten of ultrabasiche gesteenten
-- BeAl<sub>2</sub>O<sub>4</sub> (**chrysoberyl**): orthorombisch
+- **spinel**
+- **magnetiet**: inverse spinel, kubisch
+- **chromiet**
+- **chrysoberyl**
 ### Hydroxiden
 Aanwezigheid H<sub>2</sub>O moleculen: zwakkere binding
 Meestal als *product verwering of hydratatie* andere mineralen
 **limoniet**: mengsels Fe-oxiden en hydroxiden
 
-- Mg(OH)<sub>2</sub> (**bruciet**): octaeder in Mg-rijke metamorfe gesteenten
-- Al(OH)<sub>3</sub> (**gibbsiet**): octaeder, gevonden in bauxiet, belangrijkste Al-erts
-- FeOOH (**goethiet**): verwering Fe-rijke mineralen
+- **bruciet**
+- **gibbsiet**
+- **goethiet**
 ## Carbonaten
 Verbinden CO<sub>3</sub><sup>2-</sup> tetraeders door andere kationen
 ### Watervrije carbonaten
@@ -817,26 +795,45 @@ Groep afhankelijk van kationdiameter; <0.1nm: calciet, >0.1nm: aragoniet
 ![[Pasted image 20241115113530.png|475]]
 #### Calcietgroep
 **Rhomboeders**
-- CaCO<sub>3</sub> (**calciet**): hoofdbestanddeel kalksteen, krijt, marmer, belangrijk in industrie (cement)
-- FeCO<sub>3</sub> (**sideriet**):
-	- In gelaagde sedimentaire afzettingen
-	- MnCO<sub>3</sub> (**rhodocrosiet**): substitutie Fe naar Mn
-	- ZnCO<sub>3</sub> (**smithsoniet**): substitutie Fe voor Zn
-	- MgCO<sub>3</sub> (**magnesiet**): in aders Mg-rijke metamorfe en magmatische gesteenten
+- ***calciet***
+- **sideriet**
+	- **rhodocrosiet**: substitutie
+	- **smithsoniet**: substitutie
+	- **magnesiet**
 #### Dolomietgroep
 Calciet maar Ca-Mg lagen wisselen elkaar af
-- CaMg(CO<sub>3</sub>)<sub>2</sub> (**dolomiet**): in sediment door omzetting kalksteen, of in hydrothermale gangen
-- CaFe(CO<sub>3</sub>)<sub>2</sub> (**ankeriet**)
+- **dolomiet**
+- **ankeriet**
 #### Aragonietgroep
-(CO<sub>3</sub>) met grote kationen -> benadert dichtste bolstapeling
-- CaCO<sub>3</sub> (**aragoniet**): orthorombisch polymorf van calciet (hoge druk)
+Benadert dichtste bolstapeling
+- ***aragoniet***: polymorf van calciet (*hoge druk*)
 ### Carbonaten met OH- groep
-- Cu<sub>2</sub>(OH)<sub>2</sub>CO<sub>3</sub> (**malachiet**)
-- Cu<sub>3</sub>(OH)<sub>2</sub>(CO<sub>3</sub>)<sub>2</sub> (**azuriet**)
+- **malachiet**
+- **azuriet**
 ## Nitraten en Boraten
 Isostructureel met carbonaten
 **Grote oplosbaarheid**: droge gebieden
 **Nitraten**: NO<sub>3</sub><sup>-</sup> tetraeders
 **Boraten**: BO<sub>3</sub><sup>-</sup> vormen ringen of ketens
 - In fossiele afzettingen of droge meren
-## Sulfaten en Fosfaten
+## Silicaten
+Orthosilicaten - Disilicaten - Ringsilicaten - Ketensilicaten - Dubbele ketens - Bladsilicaten - Netwerksilicaten
+![[Safari _ 12-01-2025_0127PM@2x.png]]
+### Nesosilicaten
+**Olivijngroep**: Forsteriet, fyaliet
+**Zirkoon**
+**Granaatgroep**: pyralspiet-serie, ***ugrandiet***-serie
+**Aluminiumsilicaatgroep**: ***andaloesiet, sillimaniet, kyaniet*** (polymorfen)
+**Stauroliet**
+**Chloritoid**
+**Titaniet/Sfeen**
+### Sorosilicaten
+**Hemimorfiet**
+**Lawsoniet**
+**Epidootgroep** (zowel neso- als soro)
+### Cyclosilicaten
+**Beryl**
+**Cordieriet**
+**Toermalijn** (piezo-elektrisch)
+### Inosilicaten
+**Pyroxeengroep**

@@ -22,6 +22,9 @@ Vraag naar transport is **resultaat van vraag naar ander goed of dienst** in and
 
 **Concentratieratio** (CR): ![[Safari _ 25-12-2024_0234PM@2x.png|73]]
 -> X = aantal nodes; S<sub>i</sub> = gewicht van node (som gewicht verbindingen)/totaal gewicht
+
+**Herfindahl-Hirschman index** (HHI): ![[Safari _ 26-12-2024_0226PM@2x.png|73]]
+-> som wortel alle gewichten van nodes, hoge HHI = meer geconcentreerd
 # H3
 Air transport stages:
 1. **Connecting** (lineair)
@@ -29,7 +32,7 @@ Air transport stages:
 3. **Proximity** (feeders naar hubs)
 4. **Hubbing** (onderscheid lokale en globale hubs)
 # H4
-Modal shift, competition belangrijk
+Modal shift, competition concepten belangrijk
 # H5
 ![[Safari _ 23-12-2024_0241PM@2x.png|375]]
 Wanneer een **vraag** naar product ontstaat op **plaats b** terwijl **aanbod op a** bevindt ontstaat **transportbehoefte**

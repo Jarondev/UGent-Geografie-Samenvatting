@@ -15,5 +15,7 @@
   "cmenu-plugin",
   "obsidian-focus-mode",
   "obsidian-kanban",
-  "file-explorer-plus"
+  "file-explorer-plus",
+  "templater-obsidian",
+  "homepage"
 ]

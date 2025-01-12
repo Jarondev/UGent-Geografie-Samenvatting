@@ -20,16 +20,13 @@ Om te kijken hoe grootte zich door ruimte uitspeelt
 	In elke zone op willekeurige plek
 
 **Composite sample**: combineren meerdere types steekproeven
-
 # Steekproefgroottes
 W = betrouwbaarheidsinterval van gemiddelde
 -> /2 in formules
 
-
 ***Kwaliteitscheck***:
 - Kijken naar invultijd, antwoordgedrag
 - Vragen die zelfde antwoord zouden moeten geven
-
 # Betrouwbaarheidsintervallen
 ***Centrale limietstelling***: gemiddelde van genoeg steekproeven geeft uiteindelijk normale verdeling
 ## Voor het gemiddelde
