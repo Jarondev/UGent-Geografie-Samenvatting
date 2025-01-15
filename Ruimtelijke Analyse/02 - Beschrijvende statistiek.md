@@ -1,6 +1,5 @@
 # Datatypes
 ## Kwantitatief
-### Numeriek
 - **Interval**: gegevens met zinvolle verhoudingen zonder nulpunt (temperatuur, IQ)
 - **Ratio**: gegevens met absoluut nulpunt en zinvolle verhoudingen (lengte, gewicht)
 - **Discreet**: gegevens die alleen *vaste waarden* aannemen (aantal regendagen, aantal kinderen in een gezin)
