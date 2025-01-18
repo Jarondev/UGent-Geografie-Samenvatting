@@ -1,5 +1,5 @@
 # Inleiding
-## Meteorologie Factoren
+## Meteorologische Factoren
 - **Zonnestraling**
 - **Atmosfeer**:
 	- *Bescherming UV-stralen*
@@ -149,7 +149,6 @@ Uitgaande radiatie: **longwave**
 > ![[Pasted image 20240929172733.png]]
 
 ## Dagelijkse Gang
-
 *Bij wind*: rotatiebeweging naar beneden: lucht mengt en warme lucht blijft bewegen, beter behoudt van temperatuur
 
 Overdag is **hoger gelegen lucht kouder**; 's nachts warmer:
@@ -233,7 +232,6 @@ Condensatie en verdamping gebeuren **tergelijk**
 ### Dry Haze
 - Nevel door stof, rook of zout (smog)
 - Regio's met **weinig luchtcirculatie**
-
 ## Fog (mist)
 - **Microscopische waterdruppels in suspensie** dichtbij oppervlak
 - Door *koeling omgevingstemperatuur* of *toename verdamping en menging waterdamp*
@@ -255,7 +253,7 @@ Condensatie en verdamping gebeuren **tergelijk**
 ## Disperal of Fog
 - **Turbulentie**
 - **Zonnestraling**
-	- In winter minder door lage hoek
+	- In winter minder door lage hoek]
 	- Wolkenlagen 
 - **Subsidentie**: dalende luchtstromen
 # Wolken
@@ -300,16 +298,13 @@ Dichtheidsverschil zorgt voor staling/stijging (vergelijking schip op water)
 S nachts minder regen door stabiliteit: koude bodem, koude lucht onderaan
 
 ## Lapse Rates
-**Environmental** (*ELR*):
-	Werkelijke termperatuurafname naar mate van hoogte
-**Dry Abatic** (*DALR*):
-	Afkoelingssnelheid droge lucht bij stijging
+	= Veranderingen in temperatuur met hoogte in atmosfeer
+**Environmental** (*ELR*): werkelijke temperatuur
+**Dry Abatic** (*DALR*): afkoelingssnelheid droge lucht
 	-> voor *analyseren convecties* 
-**Saturated Adiabatic** (*SALR*):
-	Afkoelingssnelheid verzadigde lucht bij stijging
+**Saturated Adiabatic** (*SALR*): afkoelingssnelheid verzadigde lucht
 	-> voorspellen *wolkenvorming en neerslag*
-**Moist Adiabatic** (*MALR*):
-	Gemiddelde afkoelingssnelheid verzadigde lucht (vaak zelfde als SALR)
+**Moist Adiabatic** (*MALR*): gemiddelde SALR
 	-> kijken hoe vochtige massas zich verticaal verplaatsen
 
 >[!Info] Hoe lapse rates invloed hebben op stabiliteit
@@ -426,7 +421,7 @@ Vooral in *warme wolken* (plafond > -15°C)
 - Strijgstromen in de wolk
 - Elektrische lading druppels
 ## Bergeron Process
-Neerslagformatie in 'koude' wolken (plafond < -15°C)
+Neerslagformatie in 'koude' wolken (plafond < -15ºC)
 
 *Ijskristallen* vormen op **ijsnuclei** (zelfde concept als condensatiekern)
 
@@ -451,7 +446,7 @@ Ijskristallen groeien door omliggende waterdruppels:
 	**Wrijvingslaag**: laag nabij oppervlak die wordt beinvloedt door wrijvingseffecten
 		-> dikte veranderlijk (seizoen, windsnelheid, terrein, warmte...)
 		-> PBL bij ons: ~1km
-**Centripetale  kracht**
+**Centripetale kracht**
 ## Wind
 ### Types
 #### 1. Geostrofische Wind
@@ -537,7 +532,7 @@ Vaak met hevige onstabiliteit (**thermische vore**)
 #### Koude Anticyclonen
 Op hoge breedtegraad in **koude polaire lucht**
 ##### Winteranticycloon
-**Permanent hogedrukgebied boven continent in winter**door aanwezigheid koude lucht in lage lagen atmosfeer
+**Permanent hogedrukgebied boven continent in winter** door aanwezigheid koude lucht in lage lagen atmosfeer
 *Hoge waarden in kern*, enorm gebied
 -> soms **wig** in onze streken: droge, koude lucht
 ##### Polair Hogedrukgebied
@@ -721,7 +716,7 @@ Geen hevige regen of stormen
 *Soms langdurige regen aan koude zijde*
 #### Warm Front
 Warme lucht blaast naar koud
--> warme lucht is kouder, stijgt, gaat bewegen over koude lucht, zorgt voor **helling**
+-> warme lucht is lichter, stijgt, gaat bewegen over koude lucht, zorgt voor **helling**
 -> wolken klimmen mee (nooit <u>zware</u> buienwolken)
 
 > [!Example] Voorbeeld
@@ -736,7 +731,7 @@ Warme lucht blaast naar koud
 #### Koud Front
 Koude lucht blaast naar warm
 -> koude lucht is kouder, gaat bewegen onder warme lucht eerst, zorgt voor **omgekeerde helling**
--> warme deeltejs aan front stijgen tot boven koude lucht: **adiabatisch deeltje**
+-> warme deeltjes aan front stijgen tot boven koude lucht: **adiabatisch deeltje**
 -> **cumuluswolken**
 
 > [!Example] Voorbeeld
@@ -876,7 +871,7 @@ flexGrow=1
 ### Boog-echo
 - Ellipsvormig neerslaggebied
 - Sommige neerslag kan kommavorm maken: cycloon
-- **Rear Flow Injet**: nog in te vullen
+- **Rear Flow Injet**: divergerende luchtbeweging aan achterzijde straalstroom kan ontwikkeling lagedrukgebied bevorderen die mogelijk stormen of cyclonen versterken
 ### Supercel
 - Roterend onweer
 	- Onweer met stijgstroom die roteert rond verticale as

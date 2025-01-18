@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] **Klimatologie** #school 
-	- [ ] Hoofdstuk 1
-	- [ ] Hoofdstuk 2
-	- [ ] Hoofdstuk 3 @{20-12-24}
 
 
 ## Doing
